@@ -1,0 +1,25 @@
+<!-- Order Info Title -->
+<tr>
+  <td width="100%" align="center" style="font-size: 16px; color: #5a5b61; line-height: 18px; padding-bottom: 20px;">
+    <strong>Compra n° <span style="color: #121214;">{{orderId}}</span> - </strong>
+    Efetuado em {{formatDate creationDate}} às {{formatTime creationDate}}
+  </td>
+</tr>
+
+<!-- Order Info Summary -->
+<tr width="100%" align="center">
+  <td>
+    <table border="1" width="100%" style="border-spacing: 0;table-layout: fixed; text-align: left; margin: 0; padding: 0; border: 0;">
+      <tr>
+        <!-- Order Info Shipping -->
+        <!-- partial:shipping.hbs --><!-- partial -->
+        <td style="width: 2%; vertical-align: top; margin: 5px; border: 0;"></td>
+        <!-- Order Info Payment -->
+        <!-- partial:payment.hbs --><!-- partial -->
+        <td style="width: 2%; vertical-align: top; margin: 5px; border: 0;"></td>
+        <!-- Order Info Summary -->
+        <!-- partial:summary.hbs --><!-- partial -->
+      </tr>
+    </table>
+  </td>
+</tr>

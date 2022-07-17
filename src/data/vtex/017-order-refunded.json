@@ -1,0 +1,468 @@
+{
+  "package": {
+    "items": [
+      {
+        "itemIndex": 0,
+        "quantity": 1,
+        "price": 99800,
+        "description": null,
+        "unitMultiplier": 0
+      }
+    ],
+    "courier": null,
+    "invoiceNumber": "090538",
+    "invoiceValue": 104030,
+    "invoiceUrl": null,
+    "issuanceDate": "2021-07-21T18:55:24.25Z",
+    "trackingNumber": null,
+    "invoiceKey": null,
+    "trackingUrl": null,
+    "embeddedInvoice": "",
+    "type": "Input",
+    "courierStatus": null,
+    "cfop": null,
+    "restitutions": {
+      "Refund": {
+        "value": 104030,
+        "giftCardData": null,
+        "items": [
+          {
+            "id": "7795",
+            "quantity": 1,
+            "price": 99800,
+            "description": null
+          }
+        ]
+      }
+    },
+    "volumes": null
+  },
+  "subjectItemAttachment": {
+    "item": "Conjunto Tici Preto ...",
+    "totalItems": 1
+  },
+  "cancellationReason": null,
+  "items": [
+    {
+      "additionalInfo": {
+        "categoriesIds": "/63/",
+        "productClusterId": "",
+        "commercialConditionId": "1",
+        "dimension": {
+          "cubicweight": 1,
+          "height": 10,
+          "length": 10,
+          "weight": 400,
+          "width": 10
+        },
+        "brandName": "Charth",
+        "brandId": "2000000",
+        "offeringInfo": null,
+        "offeringType": null,
+        "offeringTypeId": null
+      },
+      "sellerSku": "7795",
+      "priceTable": null,
+      "priceValidUntil": "2022-06-30T21:31:59Z",
+      "callCenterOperator": null,
+      "commission": 0,
+      "freightCommission": 0,
+      "taxCode": "",
+      "catalogProvider": "vrn:vtex.catalog-api-proxy:-:charth:master:/proxy/authenticated/catalog/pvt/sku/stockkeepingunitbyid/7795",
+      "uniqueId": "69598AFE85B74644964C06C09CB57CE6",
+      "id": "7795",
+      "productId": "1934",
+      "productRefId": "1300021002",
+      "refId": "24445449",
+      "ean": null,
+      "name": "Conjunto Tici Preto Charth PP",
+      "skuName": "PP",
+      "modalType": null,
+      "parentItemIndex": null,
+      "parentAssemblyBinding": null,
+      "assemblies": [],
+      "tax": 0,
+      "price": 99800,
+      "listPrice": 99800,
+      "manualPrice": null,
+      "manualPriceAppliedBy": null,
+      "sellingPrice": 99800,
+      "rewardValue": 0,
+      "isGift": false,
+      "preSaleDate": null,
+      "productCategoryIds": "/63/",
+      "productCategories": {
+        "63": "Conjuntos"
+      },
+      "quantity": 1,
+      "seller": "1",
+      "sellerChain": [
+        "1"
+      ],
+      "imageUrl": "http://charth.vteximg.com.br/arquivos/ids/167835-109-109/CHARTH-19380.jpg?v=637489157527200000",
+      "detailUrl": "/conjunto-tici-preto-charth/p",
+      "components": [],
+      "bundleItems": [],
+      "attachments": [],
+      "attachmentOfferings": [],
+      "offerings": [],
+      "priceTags": [],
+      "availability": "available",
+      "measurementUnit": "un",
+      "unitMultiplier": 1,
+      "manufacturerCode": "",
+      "priceDefinition": {
+        "calculatedSellingPrice": 99800,
+        "total": 99800,
+        "sellingPrices": [
+          {
+            "value": 99800,
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  ],
+  "sellers": [
+    {
+      "subSellerId": "1",
+      "fulfillmentEndpoint": "http://fulfillment.vtexcommerce.com.br/api/fulfillment?sc=1&an=charth",
+      "id": "1",
+      "name": "Charth",
+      "logo": ""
+    }
+  ],
+  "giftRegistryData": null,
+  "receiptData": null,
+  "contextData": null,
+  "marketPlaceOrderId": "",
+  "marketPlaceOrderGroup": null,
+  "marketplaceServicesEndpoint": null,
+  "orderFormId": "507f40818f99414098307e584350a2db",
+  "sequence": "524416",
+  "affiliateId": "",
+  "status": "",
+  "callCenterOperator": "",
+  "userProfileId": "a23e6774-5e6e-4c56-8230-88ca64850be1",
+  "hostName": "charth",
+  "creationVersion": null,
+  "creationEnvironment": null,
+  "lastChangeVersion": null,
+  "workflowInstanceId": null,
+  "marketplacePaymentValue": null,
+  "orderId": "1143422231005-01",
+  "orderGroup": "1143422231005",
+  "state": "invoiced",
+  "isCheckedIn": false,
+  "sellerOrderId": "00-1143422231005-01",
+  "storeId": null,
+  "checkedInPickupPointId": null,
+  "value": 104030,
+  "totals": [
+    {
+      "id": "Items",
+      "name": "Total dos Itens",
+      "value": 99800
+    },
+    {
+      "id": "Discounts",
+      "name": "Total dos Descontos",
+      "value": 0
+    },
+    {
+      "id": "Shipping",
+      "name": "Total do Frete",
+      "value": 4230
+    },
+    {
+      "id": "Tax",
+      "name": "Total da Taxa",
+      "value": 0
+    }
+  ],
+  "clientProfileData": {
+    "email": "5b01ea22659f4e7ea16d6d847a15c88a@ct.vtex.com.br",
+    "firstName": "Dailton",
+    "lastName": "Bastos",
+    "document": "06737981356",
+    "documentType": "cpf",
+    "phone": "+5586988820145",
+    "corporateName": null,
+    "tradeName": null,
+    "corporateDocument": null,
+    "stateInscription": null,
+    "corporatePhone": null,
+    "isCorporate": false,
+    "profileCompleteOnLoading": true,
+    "profileErrorOnLoading": false,
+    "customerClass": null
+  },
+  "ratesAndBenefitsData": {
+    "rateAndBenefitsIdentifiers": [],
+    "teaser": []
+  },
+  "shippingData": {
+    "address": {
+      "addressType": "residential",
+      "receiverName": "Elisandra  Lima",
+      "addressId": "0cbd67bd29e24937844ef09eee7e07a6",
+      "isDisposable": false,
+      "postalCode": "05423-000",
+      "city": "São Paulo",
+      "state": "SP",
+      "country": "BRA",
+      "street": "Avenida Eusébio Matoso",
+      "number": "730",
+      "neighborhood": "Pinheiros",
+      "complement": "concessionaria MINI",
+      "reference": null,
+      "geoCoordinates": [
+        -46.698097229003906,
+        -23.57177734375
+      ]
+    },
+    "logisticsInfo": [
+      {
+        "itemIndex": 0,
+        "selectedSla": "Normal",
+        "selectedDeliveryChannel": "delivery",
+        "addressId": "0cbd67bd29e24937844ef09eee7e07a6",
+        "slas": [
+          {
+            "id": "Normal",
+            "deliveryChannel": "delivery",
+            "name": "Normal",
+            "deliveryIds": [
+              {
+                "courierId": "1",
+                "warehouseId": "18b23d5",
+                "dockId": "1",
+                "courierName": "Sedex",
+                "quantity": 1,
+                "kitItemDetails": []
+              }
+            ],
+            "shippingEstimate": "6bd",
+            "shippingEstimateDate": "2021-07-07T21:37:31.2027509Z",
+            "lockTTL": "12d",
+            "availableDeliveryWindows": [],
+            "deliveryWindow": null,
+            "price": 4230,
+            "listPrice": 4230,
+            "tax": 0,
+            "pickupStoreInfo": {
+              "isPickupStore": false,
+              "friendlyName": null,
+              "address": null,
+              "additionalInfo": null,
+              "dockId": null
+            },
+            "pickupPointId": null,
+            "pickupDistance": 0,
+            "polygonName": null,
+            "transitTime": "3bd"
+          }
+        ],
+        "shipsTo": [
+          "BRA"
+        ],
+        "itemId": "7795",
+        "deliveryChannels": [
+          {
+            "id": "delivery"
+          }
+        ]
+      }
+    ],
+    "selectedAddresses": [
+      {
+        "addressType": "residential",
+        "receiverName": "Elisandra  Lima",
+        "addressId": "0cbd67bd29e24937844ef09eee7e07a6",
+        "isDisposable": false,
+        "postalCode": "05423-000",
+        "city": "São Paulo",
+        "state": "SP",
+        "country": "BRA",
+        "street": "Avenida Eusébio Matoso",
+        "number": "730",
+        "neighborhood": "Pinheiros",
+        "complement": "concessionaria MINI",
+        "reference": null,
+        "geoCoordinates": [
+          -46.698097229003906,
+          -23.57177734375
+        ]
+      }
+    ],
+    "availableAddresses": [
+      {
+        "addressType": "residential",
+        "receiverName": "Elisandra  Lima",
+        "addressId": "0cbd67bd29e24937844ef09eee7e07a6",
+        "isDisposable": false,
+        "postalCode": "05423-000",
+        "city": "São Paulo",
+        "state": "SP",
+        "country": "BRA",
+        "street": "Avenida Eusébio Matoso",
+        "number": "730",
+        "neighborhood": "Pinheiros",
+        "complement": "concessionaria MINI",
+        "reference": null,
+        "geoCoordinates": [
+          -46.698097229003906,
+          -23.57177734375
+        ]
+      }
+    ],
+    "pickupPoints": []
+  },
+  "paymentData": {
+    "giftCards": [],
+    "transactions": [
+      {
+        "isActive": true,
+        "transactionId": "E1006EB1B4914193AF45893A34DCD4C3",
+        "merchantName": "CHARTH",
+        "payments": [
+          {
+            "id": "24981DC764224FF1A10F3D85D60A9060",
+            "paymentSystem": "2",
+            "paymentSystemName": "Visa",
+            "value": 104030,
+            "installments": 5,
+            "connectorResponses": {
+              "Tid": "2647A9D6-9E55-45B4-8075-21C158438E3D",
+              "ReturnCode": null,
+              "Message": null,
+              "authId": "0",
+              "nsu": "118121531019",
+              "acquirer": "pagseguro"
+            },
+            "referenceValue": 104030,
+            "cardHolder": null,
+            "cardNumber": null,
+            "firstDigits": "464128",
+            "lastDigits": "1864",
+            "cvv2": null,
+            "expireMonth": null,
+            "expireYear": null,
+            "url": null,
+            "koinUrl": null,
+            "tid": "2647A9D6-9E55-45B4-8075-21C158438E3D",
+            "redemptionCode": null,
+            "giftCardId": null,
+            "giftCardProvider": null,
+            "giftCardAsDiscount": null,
+            "group": "creditCard",
+            "dueDate": null,
+            "accountId": "8A488628A2FE47D2B7BF76A5E9025DCF",
+            "parentAccountId": null,
+            "bankIssuedInvoiceIdentificationNumber": null,
+            "bankIssuedInvoiceIdentificationNumberFormatted": null,
+            "bankIssuedInvoiceBarCodeNumber": null,
+            "bankIssuedInvoiceBarCodeType": null,
+            "billingAddress": {
+              "addressType": "residential",
+              "receiverName": "Elisandra  Lima",
+              "addressId": "0cbd67bd29e24937844ef09eee7e07a6",
+              "isDisposable": false,
+              "postalCode": "05423-000",
+              "city": "São Paulo",
+              "state": "SP",
+              "country": "BRA",
+              "street": "Avenida Eusébio Matoso",
+              "number": "730",
+              "neighborhood": "Pinheiros",
+              "complement": "concessionaria MINI",
+              "reference": null,
+              "geoCoordinates": [
+                -46.698097229003906,
+                -23.57177734375
+              ]
+            }
+          }
+        ],
+        "sharedTransaction": false
+      }
+    ]
+  },
+  "clientPreferencesData": {
+    "locale": "pt-BR",
+    "optinNewsLetter": true
+  },
+  "commercialConditionData": null,
+  "marketingData": {
+    "utmSource": "mailbiz",
+    "utmMedium": "Email",
+    "utmCampaign": "esfriou-ai-",
+    "utmipage": "",
+    "utmiPart": "",
+    "utmiCampaign": "",
+    "coupon": null,
+    "marketingTags": []
+  },
+  "storePreferencesData": {
+    "countryCode": "BRA",
+    "saveUserData": false,
+    "timeZone": "E. South America Standard Time",
+    "currencyCode": "BRL",
+    "currencyLocale": 1046,
+    "currencySymbol": "R$",
+    "currencyFormatInfo": {
+      "currencyDecimalDigits": 2,
+      "currencyDecimalSeparator": ",",
+      "currencyGroupSeparator": ".",
+      "currencyGroupSize": 3,
+      "startsWithCurrencySymbol": true
+    }
+  },
+  "openTextField": null,
+  "invoiceData": null,
+  "itemMetadata": null,
+  "taxData": null,
+  "customData": null,
+  "hooksData": null,
+  "changeData": null,
+  "subscriptionData": null,
+  "salesChannel": "1",
+  "followUpEmail": "166da88ac9284f62b31168f093db3219@ct.vtex.com.br",
+  "creationDate": "2021-06-30T21:37:10.0768991Z",
+  "lastChange": "2021-07-21T18:55:29.3245622Z",
+  "timeZoneCreationDate": "2021-06-30T18:37:10.0768991",
+  "timeZoneLastChange": "2021-07-21T15:55:29.3245622",
+  "isCompleted": true,
+  "merchantName": null,
+  "userType": "",
+  "roundingError": 0,
+  "allowEdition": false,
+  "allowCancellation": false,
+  "isUserDataVisible": false,
+  "allowChangeSeller": false,
+  "_accountInfo": {
+    "MainAccountName": "charth",
+    "AccountName": "charth",
+    "Cnpj": "25038636000153",
+    "Id": "074c1158-b096-40c2-bdb1-60f04b715780",
+    "IsActive": true,
+    "IsOperating": true,
+    "CreationDate": "2018-01-30T16:56:02",
+    "OperationDate": "2018-05-16T15:45:06",
+    "CompanyName": "Charth Comercio de Artigos de Vestuário e Acessórios Ltda",
+    "TradingName": "Charth",
+    "City": "Nova Lima",
+    "Complement": "13º Andar",
+    "Country": "Brasil",
+    "State": "MG",
+    "Address": "Rua Senador Milton Campos",
+    "District": "Vila da Serra",
+    "Number": "35",
+    "PostalCode": "34006-050",
+    "Licences": null,
+    "ParentAccountName": null,
+    "InactivationDate": null,
+    "Platform": "vtex"
+  },
+  "id": "017-order-refunded"
+}

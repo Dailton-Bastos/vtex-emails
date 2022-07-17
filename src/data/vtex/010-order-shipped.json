@@ -1,0 +1,456 @@
+{
+  "package": {
+    "items": [
+      {
+        "itemIndex": 0,
+        "quantity": 1,
+        "price": 38800,
+        "description": null,
+        "unitMultiplier": 0
+      }
+    ],
+    "courier": "Agência Correios Raja",
+    "invoiceNumber": "090551",
+    "invoiceValue": 43030,
+    "invoiceUrl": null,
+    "issuanceDate": "2021-07-22T00:00:00",
+    "trackingNumber": "OP530563471BR",
+    "invoiceKey": "31210725038636000153550020000905511013894765",
+    "trackingUrl": "",
+    "embeddedInvoice": "",
+    "type": "Output",
+    "courierStatus": null,
+    "cfop": null,
+    "restitutions": {},
+    "volumes": null
+  },
+  "subjectItemAttachment": {
+    "item": "Top Matilda Lilac Ch...",
+    "totalItems": 1
+  },
+  "cancellationReason": null,
+  "items": [
+    {
+      "additionalInfo": {
+        "categoriesIds": "/2/17/",
+        "productClusterId": "139,140",
+        "commercialConditionId": "1",
+        "dimension": {
+          "cubicweight": 1,
+          "height": 10,
+          "length": 10,
+          "weight": 400,
+          "width": 10
+        },
+        "brandName": "Charth",
+        "brandId": "2000000",
+        "offeringInfo": null,
+        "offeringType": null,
+        "offeringTypeId": null
+      },
+      "sellerSku": "8894",
+      "priceTable": null,
+      "priceValidUntil": "2022-07-22T00:46:27Z",
+      "callCenterOperator": null,
+      "commission": 0,
+      "freightCommission": 0,
+      "taxCode": "",
+      "catalogProvider": "vrn:vtex.catalog-api-proxy:-:charth:master:/proxy/authenticated/catalog/pvt/sku/stockkeepingunitbyid/8894",
+      "uniqueId": "54DA7A60632C45B7BF641C259A634100",
+      "id": "8894",
+      "productId": "2220",
+      "productRefId": "1010312",
+      "refId": "65321741",
+      "ean": null,
+      "name": "Top Matilda Lilac Charth PP",
+      "skuName": "PP",
+      "modalType": null,
+      "parentItemIndex": null,
+      "parentAssemblyBinding": null,
+      "assemblies": [],
+      "tax": 0,
+      "price": 38800,
+      "listPrice": 38800,
+      "manualPrice": null,
+      "manualPriceAppliedBy": null,
+      "sellingPrice": 38800,
+      "rewardValue": 0,
+      "isGift": false,
+      "preSaleDate": null,
+      "productCategoryIds": "/2/17/",
+      "productCategories": {
+        "2": "Tops e Blusas",
+        "17": "Moletons"
+      },
+      "quantity": 1,
+      "seller": "1",
+      "sellerChain": [
+        "1"
+      ],
+      "imageUrl": "http://charth.vteximg.com.br/arquivos/ids/169428-109-109/CHARTH-20797.jpg?v=637578851931570000",
+      "detailUrl": "/top-matilda-lilac-charth/p",
+      "components": [],
+      "bundleItems": [],
+      "attachments": [],
+      "attachmentOfferings": [],
+      "offerings": [],
+      "priceTags": [],
+      "availability": "available",
+      "measurementUnit": "un",
+      "unitMultiplier": 1,
+      "manufacturerCode": "",
+      "priceDefinition": {
+        "calculatedSellingPrice": 38800,
+        "total": 38800,
+        "sellingPrices": [
+          {
+            "value": 38800,
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  ],
+  "sellers": [
+    {
+      "subSellerId": "1",
+      "fulfillmentEndpoint": "http://fulfillment.vtexcommerce.com.br/api/fulfillment?sc=1&an=charth",
+      "id": "1",
+      "name": "Charth",
+      "logo": ""
+    }
+  ],
+  "giftRegistryData": null,
+  "receiptData": null,
+  "contextData": null,
+  "marketPlaceOrderId": "",
+  "marketPlaceOrderGroup": null,
+  "marketplaceServicesEndpoint": null,
+  "orderFormId": "b705cc57eefc416db57d75dca6cbb2ec",
+  "sequence": "524670",
+  "affiliateId": "",
+  "status": "",
+  "callCenterOperator": "",
+  "userProfileId": "a45a4af2-c8fe-42b2-a9b0-70ddbbc2b028",
+  "hostName": "charth",
+  "creationVersion": null,
+  "creationEnvironment": null,
+  "lastChangeVersion": null,
+  "workflowInstanceId": null,
+  "marketplacePaymentValue": null,
+  "orderId": "1148492964043-01",
+  "orderGroup": "1148492964043",
+  "state": "payment-approved",
+  "isCheckedIn": false,
+  "sellerOrderId": "00-1148492964043-01",
+  "storeId": null,
+  "checkedInPickupPointId": null,
+  "value": 43030,
+  "totals": [
+    {
+      "id": "Items",
+      "name": "Total dos Itens",
+      "value": 38800
+    },
+    {
+      "id": "Discounts",
+      "name": "Total dos Descontos",
+      "value": 0
+    },
+    {
+      "id": "Shipping",
+      "name": "Total do Frete",
+      "value": 4230
+    },
+    {
+      "id": "Tax",
+      "name": "Total da Taxa",
+      "value": 0
+    }
+  ],
+  "clientProfileData": {
+    "email": "5b01ea22659f4e7ea16d6d847a15c88a@ct.vtex.com.br",
+    "firstName": "Dailton",
+    "lastName": "Bastos",
+    "document": "06737981356",
+    "documentType": "cpf",
+    "phone": "+5586988820145",
+    "corporateName": null,
+    "tradeName": null,
+    "corporateDocument": null,
+    "stateInscription": null,
+    "corporatePhone": null,
+    "isCorporate": false,
+    "profileCompleteOnLoading": true,
+    "profileErrorOnLoading": false,
+    "customerClass": null
+  },
+  "ratesAndBenefitsData": {
+    "rateAndBenefitsIdentifiers": [],
+    "teaser": []
+  },
+  "shippingData": {
+    "address": {
+      "addressType": "residential",
+      "receiverName": "Priscila  Reina",
+      "addressId": "81cb008a093e4d5fa2b339c538e39418",
+      "isDisposable": false,
+      "postalCode": "05041-001",
+      "city": "São Paulo",
+      "state": "SP",
+      "country": "BRA",
+      "street": "Rua Faustolo",
+      "number": "1018",
+      "neighborhood": "Lapa",
+      "complement": "Apto 122",
+      "reference": null,
+      "geoCoordinates": [
+        -46.69774627685547,
+        -23.523887634277344
+      ]
+    },
+    "logisticsInfo": [
+      {
+        "itemIndex": 0,
+        "selectedSla": "Normal",
+        "selectedDeliveryChannel": "delivery",
+        "addressId": "81cb008a093e4d5fa2b339c538e39418",
+        "slas": [
+          {
+            "id": "Normal",
+            "deliveryChannel": "delivery",
+            "name": "Normal",
+            "deliveryIds": [
+              {
+                "courierId": "1",
+                "warehouseId": "18b23d5",
+                "dockId": "1",
+                "courierName": "Sedex",
+                "quantity": 1,
+                "kitItemDetails": []
+              }
+            ],
+            "shippingEstimate": "6bd",
+            "shippingEstimateDate": "2021-07-29T00:49:44.4805595Z",
+            "lockTTL": "12d",
+            "availableDeliveryWindows": [],
+            "deliveryWindow": null,
+            "price": 4230,
+            "listPrice": 4230,
+            "tax": 0,
+            "pickupStoreInfo": {
+              "isPickupStore": false,
+              "friendlyName": null,
+              "address": null,
+              "additionalInfo": null,
+              "dockId": null
+            },
+            "pickupPointId": null,
+            "pickupDistance": 0,
+            "polygonName": null,
+            "transitTime": "3bd"
+          }
+        ],
+        "shipsTo": [
+          "BRA"
+        ],
+        "itemId": "8894",
+        "deliveryChannels": [
+          {
+            "id": "delivery"
+          }
+        ]
+      }
+    ],
+    "selectedAddresses": [
+      {
+        "addressType": "residential",
+        "receiverName": "Priscila  Reina",
+        "addressId": "81cb008a093e4d5fa2b339c538e39418",
+        "isDisposable": false,
+        "postalCode": "05041-001",
+        "city": "São Paulo",
+        "state": "SP",
+        "country": "BRA",
+        "street": "Rua Faustolo",
+        "number": "1018",
+        "neighborhood": "Lapa",
+        "complement": "Apto 122",
+        "reference": null,
+        "geoCoordinates": [
+          -46.69774627685547,
+          -23.523887634277344
+        ]
+      }
+    ],
+    "availableAddresses": [
+      {
+        "addressType": "residential",
+        "receiverName": "Priscila  Reina",
+        "addressId": "81cb008a093e4d5fa2b339c538e39418",
+        "isDisposable": false,
+        "postalCode": "05041-001",
+        "city": "São Paulo",
+        "state": "SP",
+        "country": "BRA",
+        "street": "Rua Faustolo",
+        "number": "1018",
+        "neighborhood": "Lapa",
+        "complement": "Apto 122",
+        "reference": null,
+        "geoCoordinates": [
+          -46.69774627685547,
+          -23.523887634277344
+        ]
+      }
+    ],
+    "pickupPoints": []
+  },
+  "paymentData": {
+    "giftCards": [],
+    "transactions": [
+      {
+        "isActive": true,
+        "transactionId": "3B9E1C3C93E54FFBB2AB5810A6FFBF61",
+        "merchantName": "CHARTH",
+        "payments": [
+          {
+            "id": "8F542369C0124357B9C27864BD4CB79B",
+            "paymentSystem": "2",
+            "paymentSystemName": "Visa",
+            "value": 43030,
+            "installments": 3,
+            "connectorResponses": {
+              "Tid": "3489974C-6A0E-46A8-A0DC-C56DB372941A",
+              "ReturnCode": null,
+              "Message": null,
+              "authId": "0",
+              "nsu": "120300358823",
+              "acquirer": "pagseguro"
+            },
+            "referenceValue": 43030,
+            "cardHolder": null,
+            "cardNumber": null,
+            "firstDigits": "490172",
+            "lastDigits": "2804",
+            "cvv2": null,
+            "expireMonth": null,
+            "expireYear": null,
+            "url": null,
+            "koinUrl": null,
+            "tid": "3489974C-6A0E-46A8-A0DC-C56DB372941A",
+            "redemptionCode": null,
+            "giftCardId": null,
+            "giftCardProvider": null,
+            "giftCardAsDiscount": null,
+            "group": "creditCard",
+            "dueDate": null,
+            "accountId": "183966C1FB914FE895E83FB03C1CB53B",
+            "parentAccountId": null,
+            "bankIssuedInvoiceIdentificationNumber": null,
+            "bankIssuedInvoiceIdentificationNumberFormatted": null,
+            "bankIssuedInvoiceBarCodeNumber": null,
+            "bankIssuedInvoiceBarCodeType": null,
+            "billingAddress": {
+              "addressType": "residential",
+              "receiverName": "Priscila  Reina",
+              "addressId": "81cb008a093e4d5fa2b339c538e39418",
+              "isDisposable": false,
+              "postalCode": "05041-001",
+              "city": "São Paulo",
+              "state": "SP",
+              "country": "BRA",
+              "street": "Rua Faustolo",
+              "number": "1018",
+              "neighborhood": "Lapa",
+              "complement": "Apto 122",
+              "reference": null,
+              "geoCoordinates": [
+                -46.69774627685547,
+                -23.523887634277344
+              ]
+            }
+          }
+        ],
+        "sharedTransaction": false
+      }
+    ]
+  },
+  "clientPreferencesData": {
+    "locale": "pt-BR",
+    "optinNewsLetter": true
+  },
+  "commercialConditionData": null,
+  "marketingData": {
+    "utmSource": "",
+    "utmMedium": "",
+    "utmCampaign": "",
+    "utmipage": "",
+    "utmiPart": "",
+    "utmiCampaign": "",
+    "coupon": null,
+    "marketingTags": []
+  },
+  "storePreferencesData": {
+    "countryCode": "BRA",
+    "saveUserData": false,
+    "timeZone": "E. South America Standard Time",
+    "currencyCode": "BRL",
+    "currencyLocale": 1046,
+    "currencySymbol": "R$",
+    "currencyFormatInfo": {
+      "currencyDecimalDigits": 2,
+      "currencyDecimalSeparator": ",",
+      "currencyGroupSeparator": ".",
+      "currencyGroupSize": 3,
+      "startsWithCurrencySymbol": true
+    }
+  },
+  "openTextField": null,
+  "invoiceData": null,
+  "itemMetadata": null,
+  "taxData": null,
+  "customData": null,
+  "hooksData": null,
+  "changeData": null,
+  "subscriptionData": null,
+  "salesChannel": "1",
+  "followUpEmail": "7feff18d71ff427d9c4e88f55406366b@ct.vtex.com.br",
+  "creationDate": "2021-07-22T00:49:24.5751902Z",
+  "lastChange": "2021-07-22T00:49:44.6101188Z",
+  "timeZoneCreationDate": "2021-07-21T21:49:24.5751902",
+  "timeZoneLastChange": "2021-07-21T21:49:44.6101188",
+  "isCompleted": true,
+  "merchantName": null,
+  "userType": "",
+  "roundingError": 0,
+  "allowEdition": false,
+  "allowCancellation": false,
+  "isUserDataVisible": false,
+  "allowChangeSeller": false,
+  "_accountInfo": {
+    "MainAccountName": "charth",
+    "AccountName": "charth",
+    "Cnpj": "25038636000153",
+    "Id": "074c1158-b096-40c2-bdb1-60f04b715780",
+    "IsActive": true,
+    "IsOperating": true,
+    "CreationDate": "2018-01-30T16:56:02",
+    "OperationDate": "2018-05-16T15:45:06",
+    "CompanyName": "Charth Comercio de Artigos de Vestuário e Acessórios Ltda",
+    "TradingName": "Charth",
+    "City": "Nova Lima",
+    "Complement": "13º Andar",
+    "Country": "Brasil",
+    "State": "MG",
+    "Address": "Rua Senador Milton Campos",
+    "District": "Vila da Serra",
+    "Number": "35",
+    "PostalCode": "34006-050",
+    "Licences": null,
+    "ParentAccountName": null,
+    "InactivationDate": null,
+    "Platform": "vtex"
+  },
+  "id": "010-order-shipped"
+}

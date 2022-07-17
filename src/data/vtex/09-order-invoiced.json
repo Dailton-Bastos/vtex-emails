@@ -1,0 +1,769 @@
+{
+  "package": {
+    "items": [
+      {
+        "itemIndex": 0,
+        "quantity": 1,
+        "price": 69800,
+        "description": null,
+        "unitMultiplier": 0
+      },
+      {
+        "itemIndex": 1,
+        "quantity": 1,
+        "price": 22800,
+        "description": null,
+        "unitMultiplier": 0
+      },
+      {
+        "itemIndex": 2,
+        "quantity": 1,
+        "price": 18800,
+        "description": null,
+        "unitMultiplier": 0
+      }
+    ],
+    "courier": null,
+    "invoiceNumber": "090552",
+    "invoiceValue": 111400,
+    "invoiceUrl": null,
+    "issuanceDate": "2021-07-22T00:00:00",
+    "trackingNumber": null,
+    "invoiceKey": "31210725038636000153550020000905521013894940",
+    "trackingUrl": null,
+    "embeddedInvoice": "",
+    "type": "Output",
+    "courierStatus": null,
+    "cfop": null,
+    "restitutions": {},
+    "volumes": null
+  },
+  "subjectItemAttachment": {
+    "item": "Calça Janine Quartzo...",
+    "totalItems": 3,
+    "extraItems": 2
+  },
+  "cancellationReason": null,
+  "items": [
+    {
+      "additionalInfo": {
+        "categoriesIds": "/1/11/",
+        "productClusterId": "139,140",
+        "commercialConditionId": "1",
+        "dimension": {
+          "cubicweight": 1,
+          "height": 10,
+          "length": 10,
+          "weight": 400,
+          "width": 10
+        },
+        "brandName": "Charth",
+        "brandId": "2000000",
+        "offeringInfo": null,
+        "offeringType": null,
+        "offeringTypeId": null
+      },
+      "sellerSku": "8479",
+      "priceTable": null,
+      "priceValidUntil": "2022-07-22T12:27:50Z",
+      "callCenterOperator": null,
+      "commission": 0,
+      "freightCommission": 0,
+      "taxCode": "",
+      "catalogProvider": "vrn:vtex.catalog-api-proxy:-:charth:master:/proxy/authenticated/catalog/pvt/sku/stockkeepingunitbyid/8479",
+      "uniqueId": "FDB1FC5833F24D708E7773B90C87CDF1",
+      "id": "8479",
+      "productId": "2105",
+      "productRefId": "134262111",
+      "refId": "75804040",
+      "ean": null,
+      "name": "Calça Janine Quartzo Charth P",
+      "skuName": "P",
+      "modalType": null,
+      "parentItemIndex": null,
+      "parentAssemblyBinding": null,
+      "assemblies": [],
+      "tax": 0,
+      "price": 69800,
+      "listPrice": 69800,
+      "manualPrice": null,
+      "manualPriceAppliedBy": null,
+      "sellingPrice": 69800,
+      "rewardValue": 0,
+      "isGift": false,
+      "preSaleDate": null,
+      "productCategoryIds": "/1/11/",
+      "productCategories": {
+        "1": "Calças",
+        "11": "Skinny"
+      },
+      "quantity": 1,
+      "seller": "1",
+      "sellerChain": [
+        "1"
+      ],
+      "imageUrl": "http://charth.vteximg.com.br/arquivos/ids/168562-109-109/CHARTH-19823.jpg?v=637505436607800000",
+      "detailUrl": "/calca-janine-quartzo-charth/p",
+      "components": [],
+      "bundleItems": [],
+      "attachments": [],
+      "attachmentOfferings": [],
+      "offerings": [],
+      "priceTags": [
+        {
+          "name": "discount@shipping-2474f79b-18a3-49b6-a216-12eafbec8007#3b94b36a-8494-49f5-ab4a-f3d154f3296e",
+          "value": -3146,
+          "rawValue": -31.46,
+          "isPercentual": false,
+          "identifier": "2474f79b-18a3-49b6-a216-12eafbec8007"
+        }
+      ],
+      "availability": "available",
+      "measurementUnit": "un",
+      "unitMultiplier": 1,
+      "manufacturerCode": "",
+      "priceDefinition": {
+        "calculatedSellingPrice": 69800,
+        "total": 69800,
+        "sellingPrices": [
+          {
+            "value": 69800,
+            "quantity": 1
+          }
+        ]
+      }
+    },
+    {
+      "additionalInfo": {
+        "categoriesIds": "/28/31/",
+        "productClusterId": "140",
+        "commercialConditionId": "1",
+        "dimension": {
+          "cubicweight": 1,
+          "height": 10,
+          "length": 10,
+          "weight": 500,
+          "width": 10
+        },
+        "brandName": "Charth",
+        "brandId": "2000000",
+        "offeringInfo": null,
+        "offeringType": null,
+        "offeringTypeId": null
+      },
+      "sellerSku": "639",
+      "priceTable": null,
+      "priceValidUntil": "2022-07-22T12:30:45Z",
+      "callCenterOperator": null,
+      "commission": 0,
+      "freightCommission": 0,
+      "taxCode": "",
+      "catalogProvider": "vrn:vtex.catalog-api-proxy:-:charth:master:/proxy/authenticated/catalog/pvt/sku/stockkeepingunitbyid/639",
+      "uniqueId": "20AC5223FE1C4D6BB07FD7B1BE0590B4",
+      "id": "639",
+      "productId": "17",
+      "productRefId": "BL187510004",
+      "refId": "27504352",
+      "ean": null,
+      "name": "Blusa Longuete Decote V Branco Charth P",
+      "skuName": "P",
+      "modalType": null,
+      "parentItemIndex": null,
+      "parentAssemblyBinding": null,
+      "assemblies": [],
+      "tax": 0,
+      "price": 22800,
+      "listPrice": 22800,
+      "manualPrice": null,
+      "manualPriceAppliedBy": null,
+      "sellingPrice": 22800,
+      "rewardValue": 0,
+      "isGift": false,
+      "preSaleDate": null,
+      "productCategoryIds": "/28/31/",
+      "productCategories": {
+        "28": "Essentials",
+        "31": "Blusas"
+      },
+      "quantity": 1,
+      "seller": "1",
+      "sellerChain": [
+        "1"
+      ],
+      "imageUrl": "http://charth.vteximg.com.br/arquivos/ids/155844-109-109/Blusa-Longuete-Decote-V-Branco-Charth-PP.png?v=636608762908570000",
+      "detailUrl": "/blusa-longuete-decote-v-branco-charth/p",
+      "components": [],
+      "bundleItems": [],
+      "attachments": [],
+      "attachmentOfferings": [],
+      "offerings": [],
+      "priceTags": [
+        {
+          "name": "discount@shipping-2474f79b-18a3-49b6-a216-12eafbec8007#3b94b36a-8494-49f5-ab4a-f3d154f3296e",
+          "value": -3932,
+          "rawValue": -39.32,
+          "isPercentual": false,
+          "identifier": "2474f79b-18a3-49b6-a216-12eafbec8007"
+        }
+      ],
+      "availability": "available",
+      "measurementUnit": "un",
+      "unitMultiplier": 1,
+      "manufacturerCode": "",
+      "priceDefinition": {
+        "calculatedSellingPrice": 22800,
+        "total": 22800,
+        "sellingPrices": [
+          {
+            "value": 22800,
+            "quantity": 1
+          }
+        ]
+      }
+    },
+    {
+      "additionalInfo": {
+        "categoriesIds": "/2/14/",
+        "productClusterId": "140",
+        "commercialConditionId": "1",
+        "dimension": {
+          "cubicweight": 1,
+          "height": 10,
+          "length": 10,
+          "weight": 400,
+          "width": 10
+        },
+        "brandName": "Charth",
+        "brandId": "2000000",
+        "offeringInfo": null,
+        "offeringType": null,
+        "offeringTypeId": null
+      },
+      "sellerSku": "8577",
+      "priceTable": null,
+      "priceValidUntil": "2022-07-22T12:30:45Z",
+      "callCenterOperator": null,
+      "commission": 0,
+      "freightCommission": 0,
+      "taxCode": "",
+      "catalogProvider": "vrn:vtex.catalog-api-proxy:-:charth:master:/proxy/authenticated/catalog/pvt/sku/stockkeepingunitbyid/8577",
+      "uniqueId": "9C669BBFAB15496F9501EEF263157218",
+      "id": "8577",
+      "productId": "2135",
+      "productRefId": "1001511",
+      "refId": "51134914",
+      "ean": null,
+      "name": "T-Shirt Classic Gola V Quartzo Charth P",
+      "skuName": "P",
+      "modalType": null,
+      "parentItemIndex": null,
+      "parentAssemblyBinding": null,
+      "assemblies": [],
+      "tax": 0,
+      "price": 18800,
+      "listPrice": 18800,
+      "manualPrice": null,
+      "manualPriceAppliedBy": null,
+      "sellingPrice": 18800,
+      "rewardValue": 0,
+      "isGift": false,
+      "preSaleDate": null,
+      "productCategoryIds": "/2/14/",
+      "productCategories": {
+        "2": "Tops e Blusas",
+        "14": "T-Shirts"
+      },
+      "quantity": 1,
+      "seller": "1",
+      "sellerChain": [
+        "1"
+      ],
+      "imageUrl": "http://charth.vteximg.com.br/arquivos/ids/168711-109-109/CHARTH-22594.jpg?v=637507064100930000",
+      "detailUrl": "/t-shirt-classic-gola-v-quartzo-charth/p",
+      "components": [],
+      "bundleItems": [],
+      "attachments": [],
+      "attachmentOfferings": [],
+      "offerings": [],
+      "priceTags": [
+        {
+          "name": "discount@shipping-2474f79b-18a3-49b6-a216-12eafbec8007#3b94b36a-8494-49f5-ab4a-f3d154f3296e",
+          "value": -3146,
+          "rawValue": -31.46,
+          "isPercentual": false,
+          "identifier": "2474f79b-18a3-49b6-a216-12eafbec8007"
+        }
+      ],
+      "availability": "available",
+      "measurementUnit": "un",
+      "unitMultiplier": 1,
+      "manufacturerCode": "",
+      "priceDefinition": {
+        "calculatedSellingPrice": 18800,
+        "total": 18800,
+        "sellingPrices": [
+          {
+            "value": 18800,
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  ],
+  "sellers": [
+    {
+      "subSellerId": "1",
+      "fulfillmentEndpoint": "http://fulfillment.vtexcommerce.com.br/api/fulfillment?sc=1&an=charth",
+      "id": "1",
+      "name": "Charth",
+      "logo": ""
+    }
+  ],
+  "giftRegistryData": null,
+  "receiptData": null,
+  "contextData": null,
+  "marketPlaceOrderId": "",
+  "marketPlaceOrderGroup": null,
+  "marketplaceServicesEndpoint": null,
+  "orderFormId": "e049d4c073f543f793231efa5234c459",
+  "sequence": "524672",
+  "affiliateId": "",
+  "status": "",
+  "callCenterOperator": "",
+  "userProfileId": "d7b3d95a-e597-4469-9ce4-d370a83731f0",
+  "hostName": "charth",
+  "creationVersion": null,
+  "creationEnvironment": null,
+  "lastChangeVersion": null,
+  "workflowInstanceId": null,
+  "marketplacePaymentValue": null,
+  "orderId": "1148611894827-01",
+  "orderGroup": "1148611894827",
+  "state": "payment-approved",
+  "isCheckedIn": false,
+  "sellerOrderId": "00-1148611894827-01",
+  "storeId": null,
+  "checkedInPickupPointId": null,
+  "value": 111400,
+  "totals": [
+    {
+      "id": "Items",
+      "name": "Total dos Itens",
+      "value": 111400
+    },
+    {
+      "id": "Discounts",
+      "name": "Total dos Descontos",
+      "value": 0
+    },
+    {
+      "id": "Shipping",
+      "name": "Total do Frete",
+      "value": 0,
+      "alternativeTotals": [
+        {
+          "id": "AlternativeShippingTotal",
+          "name": "Alternative Shipping Total",
+          "value": 10224
+        },
+        {
+          "id": "AlternativeShippingDiscount",
+          "name": "Alternative Shipping Discount",
+          "value": -10224
+        }
+      ]
+    },
+    {
+      "id": "Tax",
+      "name": "Total da Taxa",
+      "value": 0
+    }
+  ],
+  "clientProfileData": {
+    "email": "5b01ea22659f4e7ea16d6d847a15c88a@ct.vtex.com.br",
+    "firstName": "Dailton",
+    "lastName": "Bastos",
+    "document": "06737981356",
+    "documentType": "cpf",
+    "phone": "+5586988820145",
+    "corporateName": null,
+    "tradeName": null,
+    "corporateDocument": null,
+    "stateInscription": null,
+    "corporatePhone": null,
+    "isCorporate": false,
+    "profileCompleteOnLoading": true,
+    "profileErrorOnLoading": false,
+    "customerClass": null
+  },
+  "ratesAndBenefitsData": {
+    "rateAndBenefitsIdentifiers": [
+      {
+        "id": "2474f79b-18a3-49b6-a216-12eafbec8007",
+        "name": "Frete Grátis",
+        "featured": false,
+        "description": "Para compras acima de R$ 1.000,00",
+        "matchedParameters": {},
+        "additionalInfo": null
+      }
+    ],
+    "teaser": []
+  },
+  "shippingData": {
+    "address": {
+      "addressType": "residential",
+      "receiverName": "Carla Guzzo",
+      "addressId": "649bc945e66b4d239371b9dcc792b586",
+      "isDisposable": true,
+      "postalCode": "99840-000",
+      "city": "Sananduva",
+      "state": "RS",
+      "country": "BRA",
+      "street": "Carlos raimundi",
+      "number": "251",
+      "neighborhood": "Centro",
+      "complement": null,
+      "reference": null,
+      "geoCoordinates": [
+        -51.81486129760742,
+        -27.9505672454834
+      ]
+    },
+    "logisticsInfo": [
+      {
+        "itemIndex": 0,
+        "selectedSla": "Normal",
+        "selectedDeliveryChannel": "delivery",
+        "addressId": "649bc945e66b4d239371b9dcc792b586",
+        "slas": [
+          {
+            "id": "Normal",
+            "deliveryChannel": "delivery",
+            "name": "Normal",
+            "deliveryIds": [
+              {
+                "courierId": "1",
+                "warehouseId": "18b23d5",
+                "dockId": "1",
+                "courierName": "Sedex",
+                "quantity": 1,
+                "kitItemDetails": []
+              }
+            ],
+            "shippingEstimate": "8bd",
+            "shippingEstimateDate": "2021-07-31T12:31:54.6009143Z",
+            "lockTTL": "12d",
+            "availableDeliveryWindows": [],
+            "deliveryWindow": null,
+            "price": 0,
+            "listPrice": 3146,
+            "tax": 0,
+            "pickupStoreInfo": {
+              "isPickupStore": false,
+              "friendlyName": null,
+              "address": null,
+              "additionalInfo": null,
+              "dockId": null
+            },
+            "pickupPointId": null,
+            "pickupDistance": 0,
+            "polygonName": null,
+            "transitTime": "5bd"
+          }
+        ],
+        "shipsTo": [
+          "BRA"
+        ],
+        "itemId": "8479",
+        "deliveryChannels": [
+          {
+            "id": "delivery"
+          }
+        ]
+      },
+      {
+        "itemIndex": 1,
+        "selectedSla": "Normal",
+        "selectedDeliveryChannel": "delivery",
+        "addressId": "649bc945e66b4d239371b9dcc792b586",
+        "slas": [
+          {
+            "id": "Normal",
+            "deliveryChannel": "delivery",
+            "name": "Normal",
+            "deliveryIds": [
+              {
+                "courierId": "1",
+                "warehouseId": "18b23d5",
+                "dockId": "1",
+                "courierName": "Sedex",
+                "quantity": 1,
+                "kitItemDetails": []
+              }
+            ],
+            "shippingEstimate": "8bd",
+            "shippingEstimateDate": "2021-07-31T12:31:54.6009143Z",
+            "lockTTL": "12d",
+            "availableDeliveryWindows": [],
+            "deliveryWindow": null,
+            "price": 0,
+            "listPrice": 3932,
+            "tax": 0,
+            "pickupStoreInfo": {
+              "isPickupStore": false,
+              "friendlyName": null,
+              "address": null,
+              "additionalInfo": null,
+              "dockId": null
+            },
+            "pickupPointId": null,
+            "pickupDistance": 0,
+            "polygonName": null,
+            "transitTime": "5bd"
+          }
+        ],
+        "shipsTo": [
+          "BRA"
+        ],
+        "itemId": "639",
+        "deliveryChannels": [
+          {
+            "id": "delivery"
+          }
+        ]
+      },
+      {
+        "itemIndex": 2,
+        "selectedSla": "Normal",
+        "selectedDeliveryChannel": "delivery",
+        "addressId": "649bc945e66b4d239371b9dcc792b586",
+        "slas": [
+          {
+            "id": "Normal",
+            "deliveryChannel": "delivery",
+            "name": "Normal",
+            "deliveryIds": [
+              {
+                "courierId": "1",
+                "warehouseId": "18b23d5",
+                "dockId": "1",
+                "courierName": "Sedex",
+                "quantity": 1,
+                "kitItemDetails": []
+              }
+            ],
+            "shippingEstimate": "8bd",
+            "shippingEstimateDate": "2021-07-31T12:31:54.6009143Z",
+            "lockTTL": "12d",
+            "availableDeliveryWindows": [],
+            "deliveryWindow": null,
+            "price": 0,
+            "listPrice": 3146,
+            "tax": 0,
+            "pickupStoreInfo": {
+              "isPickupStore": false,
+              "friendlyName": null,
+              "address": null,
+              "additionalInfo": null,
+              "dockId": null
+            },
+            "pickupPointId": null,
+            "pickupDistance": 0,
+            "polygonName": null,
+            "transitTime": "5bd"
+          }
+        ],
+        "shipsTo": [
+          "BRA"
+        ],
+        "itemId": "8577",
+        "deliveryChannels": [
+          {
+            "id": "delivery"
+          }
+        ]
+      }
+    ],
+    "selectedAddresses": [
+      {
+        "addressType": "residential",
+        "receiverName": "Carla Guzzo",
+        "addressId": "649bc945e66b4d239371b9dcc792b586",
+        "isDisposable": true,
+        "postalCode": "99840-000",
+        "city": "Sananduva",
+        "state": "RS",
+        "country": "BRA",
+        "street": "Carlos raimundi",
+        "number": "251",
+        "neighborhood": "Centro",
+        "complement": null,
+        "reference": null,
+        "geoCoordinates": [
+          -51.81486129760742,
+          -27.9505672454834
+        ]
+      }
+    ],
+    "availableAddresses": [
+      {
+        "addressType": "residential",
+        "receiverName": "Carla Guzzo",
+        "addressId": "649bc945e66b4d239371b9dcc792b586",
+        "isDisposable": true,
+        "postalCode": "99840-000",
+        "city": "Sananduva",
+        "state": "RS",
+        "country": "BRA",
+        "street": "Carlos raimundi",
+        "number": "251",
+        "neighborhood": "Centro",
+        "complement": null,
+        "reference": null,
+        "geoCoordinates": [
+          -51.81486129760742,
+          -27.9505672454834
+        ]
+      }
+    ],
+    "pickupPoints": []
+  },
+  "paymentData": {
+    "giftCards": [],
+    "transactions": [
+      {
+        "isActive": true,
+        "transactionId": "4C6C48962B3E491DB641C5000E80CCBE",
+        "merchantName": "CHARTH",
+        "payments": [
+          {
+            "id": "7C4EC4ECADE84F35A50C5BF2365F5856",
+            "paymentSystem": "2",
+            "paymentSystemName": "Visa",
+            "value": 111400,
+            "installments": 2,
+            "connectorResponses": {
+              "Tid": "BA35B138-CDA1-4668-B8A3-FC236E6B15E0",
+              "ReturnCode": null,
+              "Message": null,
+              "authId": "0",
+              "nsu": "120312505515",
+              "acquirer": "pagseguro"
+            },
+            "referenceValue": 111400,
+            "cardHolder": null,
+            "cardNumber": null,
+            "firstDigits": "476333",
+            "lastDigits": "8120",
+            "cvv2": null,
+            "expireMonth": null,
+            "expireYear": null,
+            "url": null,
+            "koinUrl": null,
+            "tid": "BA35B138-CDA1-4668-B8A3-FC236E6B15E0",
+            "redemptionCode": null,
+            "giftCardId": null,
+            "giftCardProvider": null,
+            "giftCardAsDiscount": null,
+            "group": "creditCard",
+            "dueDate": null,
+            "accountId": "4DFD25500EAF4BA69FDF6E132856AFCB",
+            "parentAccountId": null,
+            "bankIssuedInvoiceIdentificationNumber": null,
+            "bankIssuedInvoiceIdentificationNumberFormatted": null,
+            "bankIssuedInvoiceBarCodeNumber": null,
+            "bankIssuedInvoiceBarCodeType": null,
+            "billingAddress": {
+              "addressType": "residential",
+              "receiverName": "Carla Guzzo",
+              "addressId": "649bc945e66b4d239371b9dcc792b586",
+              "isDisposable": true,
+              "postalCode": "99840-000",
+              "city": "Sananduva",
+              "state": "RS",
+              "country": "BRA",
+              "street": "Carlos raimundi",
+              "number": "251",
+              "neighborhood": "Centro",
+              "complement": null,
+              "reference": null,
+              "geoCoordinates": [
+                -51.81486129760742,
+                -27.9505672454834
+              ]
+            }
+          }
+        ],
+        "sharedTransaction": false
+      }
+    ]
+  },
+  "clientPreferencesData": {
+    "locale": "pt-BR",
+    "optinNewsLetter": false
+  },
+  "commercialConditionData": null,
+  "marketingData": null,
+  "storePreferencesData": {
+    "countryCode": "BRA",
+    "saveUserData": false,
+    "timeZone": "E. South America Standard Time",
+    "currencyCode": "BRL",
+    "currencyLocale": 1046,
+    "currencySymbol": "R$",
+    "currencyFormatInfo": {
+      "currencyDecimalDigits": 2,
+      "currencyDecimalSeparator": ",",
+      "currencyGroupSeparator": ".",
+      "currencyGroupSize": 3,
+      "startsWithCurrencySymbol": true
+    }
+  },
+  "openTextField": null,
+  "invoiceData": null,
+  "itemMetadata": null,
+  "taxData": null,
+  "customData": null,
+  "hooksData": null,
+  "changeData": null,
+  "subscriptionData": null,
+  "salesChannel": "1",
+  "followUpEmail": "763d2627c2c24b959aed3947cabb05ac@ct.vtex.com.br",
+  "creationDate": "2021-07-22T12:31:32.5644043Z",
+  "lastChange": "2021-07-22T12:31:55.1122711Z",
+  "timeZoneCreationDate": "2021-07-22T09:31:32.5644043",
+  "timeZoneLastChange": "2021-07-22T09:31:55.1122711",
+  "isCompleted": true,
+  "merchantName": null,
+  "userType": "",
+  "roundingError": 0,
+  "allowEdition": false,
+  "allowCancellation": false,
+  "isUserDataVisible": false,
+  "allowChangeSeller": false,
+  "_accountInfo": {
+    "MainAccountName": "charth",
+    "AccountName": "charth",
+    "Cnpj": "25038636000153",
+    "Id": "074c1158-b096-40c2-bdb1-60f04b715780",
+    "IsActive": true,
+    "IsOperating": true,
+    "CreationDate": "2018-01-30T16:56:02",
+    "OperationDate": "2018-05-16T15:45:06",
+    "CompanyName": "Charth Comercio de Artigos de Vestuário e Acessórios Ltda",
+    "TradingName": "Charth",
+    "City": "Nova Lima",
+    "Complement": "13º Andar",
+    "Country": "Brasil",
+    "State": "MG",
+    "Address": "Rua Senador Milton Campos",
+    "District": "Vila da Serra",
+    "Number": "35",
+    "PostalCode": "34006-050",
+    "Licences": null,
+    "ParentAccountName": null,
+    "InactivationDate": null,
+    "Platform": "vtex"
+  },
+  "id": "09-order-invoiced"
+}

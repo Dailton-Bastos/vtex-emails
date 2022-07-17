@@ -1,0 +1,34 @@
+{
+  "clientData": {
+    "name": "Dailton Bastos",
+    "email": "dailton.bastos@original.io",
+    "phone": "(86) 99434-3214"
+  },
+  "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi.",
+  "provider": "default",
+  "_accountInfo": {
+    "MainAccountName": "charth",
+    "AccountName": "charth",
+    "Cnpj": "25038636000153",
+    "Id": "074c1158-b096-40c2-bdb1-60f04b715780",
+    "IsActive": true,
+    "IsOperating": true,
+    "CreationDate": "2018-01-30T16:56:02",
+    "OperationDate": "2018-05-16T15:45:06",
+    "CompanyName": "Charth Comercio de Artigos de Vestuário e Acessórios Ltda",
+    "TradingName": "Charth",
+    "City": "Nova Lima",
+    "Complement": "13º Andar",
+    "Country": "Brasil",
+    "State": "MG",
+    "Address": "Rua Senador Milton Campos",
+    "District": "Vila da Serra",
+    "Number": "35",
+    "PostalCode": "34006-050",
+    "Licences": null,
+    "ParentAccountName": null,
+    "InactivationDate": null,
+    "Platform": "vtex"
+  },
+  "id": "03-contact-client"
+}

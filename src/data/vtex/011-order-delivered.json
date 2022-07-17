@@ -1,0 +1,587 @@
+{
+  "package": {
+    "items": [
+      {
+        "itemIndex": 0,
+        "quantity": 1,
+        "price": 56800,
+        "description": null,
+        "unitMultiplier": 0
+      },
+      {
+        "itemIndex": 1,
+        "quantity": 1,
+        "price": 57800,
+        "description": null,
+        "unitMultiplier": 0
+      }
+    ],
+    "courier": "Sedex",
+    "invoiceNumber": "6835",
+    "invoiceValue": 114600,
+    "invoiceUrl": null,
+    "issuanceDate": "2019-04-10T03:00:00Z",
+    "trackingNumber": "OG897905162BR",
+    "invoiceKey": "31190425038636000153550010000068351150556892",
+    "trackingUrl": "http://www2.correios.com.br/sistemas/rastreamento/",
+    "embeddedInvoice": "",
+    "type": "Output",
+    "courierStatus": {
+      "status": "undefined",
+      "finished": true,
+      "data": []
+    },
+    "cfop": null
+  },
+  "subjectItemAttachment": {
+    "item": "Calça Simaria Grafit...",
+    "totalItems": 2,
+    "extraItems": 1
+  },
+  "cancellationReason": null,
+  "items": [
+    {
+      "additionalInfo": {
+        "dimension": {
+          "cubicweight": 1,
+          "height": 11,
+          "length": 31,
+          "weight": 632,
+          "width": 45
+        },
+        "categoriesIds": "/1/11/",
+        "productClusterId": "139,140",
+        "commercialConditionId": "1",
+        "brandName": "Charth",
+        "brandId": "2000000",
+        "offeringInfo": null,
+        "offeringType": null,
+        "offeringTypeId": null
+      },
+      "sellerSku": "4",
+      "priceTable": null,
+      "priceValidUntil": "2020-04-10T16:34:49.5507777Z",
+      "callCenterOperator": null,
+      "commission": 0,
+      "freightCommission": 0,
+      "taxCode": "",
+      "uniqueId": "8EB447C587014335BB33082D4333F531",
+      "id": "4",
+      "productId": "1",
+      "refId": "17208919",
+      "ean": null,
+      "name": "Calça Gabi Preto Charth G",
+      "skuName": "G",
+      "modalType": null,
+      "parentItemIndex": null,
+      "parentAssemblyBinding": null,
+      "assemblies": [],
+      "tax": 0,
+      "priceDefinitions": null,
+      "price": 56800,
+      "listPrice": 56800,
+      "manualPrice": null,
+      "sellingPrice": 56800,
+      "orderRewardStatus": null,
+      "rewardValue": 0,
+      "isGift": false,
+      "preSaleDate": null,
+      "productCategoryIds": "/1/11/",
+      "productCategories": {
+        "1": "Calças",
+        "11": "Skinny"
+      },
+      "quantity": 1,
+      "seller": "1",
+      "sellerChain": [
+        "1"
+      ],
+      "imageUrl": "http://charth.vteximg.com.br/arquivos/ids/157747-109-109/Calca-Gabi-Preto-Charth-2.png?v=636695137058270000",
+      "detailUrl": "/calca-gabi-preto-charth/p",
+      "components": [],
+      "bundleItems": [],
+      "attachments": [],
+      "attachmentOfferings": [],
+      "offerings": [],
+      "priceTags": [
+        {
+          "name": "discount@shipping-2474f79b-18a3-49b6-a216-12eafbec8007#ce653845-3a75-4823-8a61-cee5f6371449",
+          "value": -2967,
+          "rawValue": -29.67,
+          "isPercentual": false,
+          "identifier": "2474f79b-18a3-49b6-a216-12eafbec8007"
+        }
+      ],
+      "availability": "available",
+      "measurementUnit": "un",
+      "unitMultiplier": 1
+    },
+    {
+      "additionalInfo": {
+        "dimension": {
+          "cubicweight": 3.1969,
+          "height": 11,
+          "length": 31,
+          "weight": 632,
+          "width": 45
+        },
+        "categoriesIds": "/1/11/",
+        "productClusterId": "139,140",
+        "commercialConditionId": "1",
+        "brandName": "Charth",
+        "brandId": "2000000",
+        "offeringInfo": null,
+        "offeringType": null,
+        "offeringTypeId": null
+      },
+      "sellerSku": "1236",
+      "priceTable": null,
+      "priceValidUntil": "2020-04-10T16:36:18.2187865Z",
+      "callCenterOperator": null,
+      "commission": 0,
+      "freightCommission": 0,
+      "taxCode": "",
+      "uniqueId": "AB26249A7CDF466082D7E884C003F0AC",
+      "id": "1236",
+      "productId": "274",
+      "refId": "50348956",
+      "ean": null,
+      "name": "Calça Simaria Grafite Charth G",
+      "skuName": "G",
+      "modalType": null,
+      "parentItemIndex": null,
+      "parentAssemblyBinding": null,
+      "assemblies": [],
+      "tax": 0,
+      "priceDefinitions": null,
+      "price": 57800,
+      "listPrice": 57800,
+      "manualPrice": null,
+      "sellingPrice": 57800,
+      "orderRewardStatus": null,
+      "rewardValue": 0,
+      "isGift": false,
+      "preSaleDate": null,
+      "productCategoryIds": "/1/11/",
+      "productCategories": {
+        "1": "Calças",
+        "11": "Skinny"
+      },
+      "quantity": 1,
+      "seller": "1",
+      "sellerChain": [
+        "1"
+      ],
+      "imageUrl": "http://charth.vteximg.com.br/arquivos/ids/158319-109-109/calca-simaria-grafite-charth-still.jpg?v=636779861866430000",
+      "detailUrl": "/calca-simaria-grafite-charth/p",
+      "components": [],
+      "bundleItems": [],
+      "attachments": [],
+      "attachmentOfferings": [],
+      "offerings": [],
+      "priceTags": [
+        {
+          "name": "discount@shipping-2474f79b-18a3-49b6-a216-12eafbec8007#ce653845-3a75-4823-8a61-cee5f6371449",
+          "value": -2967,
+          "rawValue": -29.67,
+          "isPercentual": false,
+          "identifier": "2474f79b-18a3-49b6-a216-12eafbec8007"
+        }
+      ],
+      "availability": "available",
+      "measurementUnit": "un",
+      "unitMultiplier": 1
+    }
+  ],
+  "sellers": [
+    {
+      "subSellerId": "1",
+      "fulfillmentEndpoint": "http://fulfillment.vtexcommerce.com.br/api/fulfillment?sc=1&an=charth",
+      "id": "1",
+      "name": "Charth",
+      "logo": ""
+    }
+  ],
+  "giftRegistryData": null,
+  "receiptData": null,
+  "contextData": null,
+  "marketPlaceOrderId": "",
+  "marketPlaceOrderGroup": null,
+  "marketplaceServicesEndpoint": null,
+  "orderFormId": "8ddb213643354afba7fb3cf9bfb6fccb",
+  "sequence": "505678",
+  "affiliateId": "",
+  "status": "",
+  "callCenterOperator": "",
+  "userProfileId": "eaf6bf29-a008-41ea-805a-de7424fe1593",
+  "hostName": "charth",
+  "creationVersion": null,
+  "creationEnvironment": null,
+  "lastChangeVersion": null,
+  "workflowInstanceId": null,
+  "marketplacePaymentValue": null,
+  "orderId": "923932808654-01",
+  "orderGroup": "923932808654",
+  "state": "invoiced",
+  "isCheckedIn": false,
+  "sellerOrderId": "00-923932808654-01",
+  "storeId": null,
+  "checkedInPickupPointId": null,
+  "value": 114600,
+  "totals": [
+    {
+      "id": "Items",
+      "name": "Total dos Itens",
+      "value": 114600
+    },
+    {
+      "id": "Discounts",
+      "name": "Total dos Descontos",
+      "value": 0
+    },
+    {
+      "id": "Shipping",
+      "name": "Total do Frete",
+      "value": 0,
+      "alternativeTotals": [
+        {
+          "id": "AlternativeShippingTotal",
+          "name": "Alternative Shipping Total",
+          "value": 5934
+        },
+        {
+          "id": "AlternativeShippingDiscount",
+          "name": "Alternative Shipping Discount",
+          "value": -5934
+        }
+      ]
+    },
+    {
+      "id": "Tax",
+      "name": "Total da Taxa",
+      "value": 0
+    }
+  ],
+  "clientProfileData": {
+    "email": "5b01ea22659f4e7ea16d6d847a15c88a@ct.vtex.com.br",
+    "firstName": "Dailton",
+    "lastName": "Bastos",
+    "document": "06737981356",
+    "documentType": "cpf",
+    "phone": "+5586988820145",
+    "corporateName": null,
+    "tradeName": null,
+    "corporateDocument": null,
+    "stateInscription": null,
+    "corporatePhone": null,
+    "isCorporate": false,
+    "profileCompleteOnLoading": true,
+    "profileErrorOnLoading": false,
+    "customerClass": null
+  },
+  "ratesAndBenefitsData": {
+    "rateAndBenefitsIdentifiers": [
+      {
+        "id": "2474f79b-18a3-49b6-a216-12eafbec8007",
+        "name": "Frete Grátis",
+        "featured": false,
+        "description": "Para compras acima de R$ 1.000,00",
+        "matchedParameters": {},
+        "additionalInfo": null
+      }
+    ],
+    "teaser": []
+  },
+  "shippingData": {
+    "address": {
+      "addressType": "residential",
+      "receiverName": "Luciana Pereira ",
+      "addressId": "b6f3d921d64a42b086357b9b81b4d5aa",
+      "postalCode": "40210-630",
+      "city": "Salvador",
+      "state": "BA",
+      "country": "BRA",
+      "street": "Rua Professor Aristides Novis",
+      "number": "680",
+      "neighborhood": "Federação",
+      "complement": "Apto 2401",
+      "reference": null,
+      "geoCoordinates": [
+        -38.5112190246582,
+        -13.003382682800293
+      ]
+    },
+    "logisticsInfo": [
+      {
+        "itemIndex": 0,
+        "selectedSla": "Normal",
+        "selectedDeliveryChannel": "delivery",
+        "addressId": "b6f3d921d64a42b086357b9b81b4d5aa",
+        "slas": [
+          {
+            "id": "Normal",
+            "deliveryChannel": "delivery",
+            "name": "Normal",
+            "deliveryIds": [
+              {
+                "courierId": "1",
+                "warehouseId": "1_1",
+                "dockId": "1",
+                "courierName": "Sedex",
+                "quantity": 1
+              }
+            ],
+            "shippingEstimate": "6bd",
+            "shippingEstimateDate": "2019-04-18T16:47:25.0922552Z",
+            "lockTTL": "12d",
+            "availableDeliveryWindows": [],
+            "deliveryWindow": null,
+            "price": 0,
+            "listPrice": 2967,
+            "tax": 0,
+            "pickupStoreInfo": {
+              "isPickupStore": false,
+              "friendlyName": null,
+              "address": null,
+              "additionalInfo": null,
+              "dockId": null
+            },
+            "pickupPointId": null,
+            "pickupDistance": 0,
+            "polygonName": null
+          }
+        ],
+        "shipsTo": [
+          "BRA"
+        ],
+        "itemId": "4",
+        "deliveryChannels": [
+          {
+            "id": "delivery"
+          }
+        ]
+      },
+      {
+        "itemIndex": 1,
+        "selectedSla": "Normal",
+        "selectedDeliveryChannel": "delivery",
+        "addressId": "b6f3d921d64a42b086357b9b81b4d5aa",
+        "slas": [
+          {
+            "id": "Normal",
+            "deliveryChannel": "delivery",
+            "name": "Normal",
+            "deliveryIds": [
+              {
+                "courierId": "1",
+                "warehouseId": "1_1",
+                "dockId": "1",
+                "courierName": "Sedex",
+                "quantity": 1
+              }
+            ],
+            "shippingEstimate": "6bd",
+            "shippingEstimateDate": "2019-04-18T16:47:25.0922552Z",
+            "lockTTL": "12d",
+            "availableDeliveryWindows": [],
+            "deliveryWindow": null,
+            "price": 0,
+            "listPrice": 2967,
+            "tax": 0,
+            "pickupStoreInfo": {
+              "isPickupStore": false,
+              "friendlyName": null,
+              "address": null,
+              "additionalInfo": null,
+              "dockId": null
+            },
+            "pickupPointId": null,
+            "pickupDistance": 0,
+            "polygonName": null
+          }
+        ],
+        "shipsTo": [
+          "BRA"
+        ],
+        "itemId": "1236",
+        "deliveryChannels": [
+          {
+            "id": "delivery"
+          }
+        ]
+      }
+    ],
+    "selectedAddresses": [
+      {
+        "addressType": "residential",
+        "receiverName": "Luciana Pereira ",
+        "addressId": "b6f3d921d64a42b086357b9b81b4d5aa",
+        "postalCode": "40210-630",
+        "city": "Salvador",
+        "state": "BA",
+        "country": "BRA",
+        "street": "Rua Professor Aristides Novis",
+        "number": "680",
+        "neighborhood": "Federação",
+        "complement": "Apto 2401",
+        "reference": null,
+        "geoCoordinates": [
+          -38.5112190246582,
+          -13.003382682800293
+        ]
+      }
+    ],
+    "availableAddresses": [
+      {
+        "addressType": "residential",
+        "receiverName": "Luciana Pereira ",
+        "addressId": "b6f3d921d64a42b086357b9b81b4d5aa",
+        "postalCode": "40210-630",
+        "city": "Salvador",
+        "state": "BA",
+        "country": "BRA",
+        "street": "Rua Professor Aristides Novis",
+        "number": "680",
+        "neighborhood": "Federação",
+        "complement": "Apto 2401",
+        "reference": null,
+        "geoCoordinates": [
+          -38.5112190246582,
+          -13.003382682800293
+        ]
+      }
+    ],
+    "pickupPoints": []
+  },
+  "paymentData": {
+    "giftCards": [],
+    "transactions": [
+      {
+        "isActive": true,
+        "transactionId": "AA8276FA102049C3ACA27476C543FA9B",
+        "merchantName": "CHARTH",
+        "payments": [
+          {
+            "id": "098A062C8F914A918F1671EC30B1DF65",
+            "paymentSystem": "4",
+            "paymentSystemName": "Mastercard",
+            "value": 114600,
+            "installments": 5,
+            "connectorResponses": {
+              "tid": "109464148888R7DMSU1B",
+              "returnCode": "00",
+              "message": "Transacao autorizada",
+              "authId": "665897",
+              "nsu": "211005"
+            },
+            "referenceValue": 114600,
+            "cardHolder": null,
+            "cardNumber": null,
+            "firstDigits": "536805",
+            "lastDigits": "7970",
+            "cvv2": null,
+            "expireMonth": null,
+            "expireYear": null,
+            "url": null,
+            "koinUrl": null,
+            "tid": "109464148888R7DMSU1B",
+            "redemptionCode": null,
+            "giftCardId": null,
+            "giftCardProvider": null,
+            "giftCardAsDiscount": null,
+            "group": "creditCard",
+            "dueDate": null,
+            "accountId": "4B819A4BDC134848AF552F8DCBCC78D4",
+            "parentAccountId": null,
+            "bankIssuedInvoiceIdentificationNumber": null,
+            "bankIssuedInvoiceIdentificationNumberFormatted": null,
+            "bankIssuedInvoiceBarCodeNumber": null,
+            "bankIssuedInvoiceBarCodeType": null
+          }
+        ],
+        "sharedTransaction": false
+      }
+    ]
+  },
+  "clientPreferencesData": {
+    "locale": "pt-BR",
+    "optinNewsLetter": true
+  },
+  "commercialConditionData": null,
+  "marketingData": {
+    "utmSource": "facebook",
+    "utmMedium": "cpc",
+    "utmCampaign": "pareto",
+    "utmipage": "",
+    "utmiPart": "",
+    "utmiCampaign": "",
+    "coupon": null,
+    "marketingTags": []
+  },
+  "storePreferencesData": {
+    "countryCode": "BRA",
+    "saveUserData": false,
+    "timeZone": "E. South America Standard Time",
+    "currencyCode": "BRL",
+    "currencyLocale": 1046,
+    "currencySymbol": "R$",
+    "currencyFormatInfo": {
+      "currencyDecimalDigits": 2,
+      "currencyDecimalSeparator": ",",
+      "currencyGroupSeparator": ".",
+      "currencyGroupSize": 3,
+      "startsWithCurrencySymbol": true
+    }
+  },
+  "openTextField": null,
+  "invoiceData": null,
+  "itemMetadata": null,
+  "taxData": null,
+  "customData": null,
+  "hooksData": null,
+  "changeData": null,
+  "subscriptionData": null,
+  "salesChannel": "1",
+  "followUpEmail": "43e80bd6270a4754aa8a511d84e4e088@ct.vtex.com.br",
+  "creationDate": "2019-04-10T16:46:49.0250755Z",
+  "lastChange": "2019-04-10T17:53:25.6568614Z",
+  "timeZoneCreationDate": "2019-04-10T13:46:49.0250755",
+  "timeZoneLastChange": "2019-04-10T14:53:25.6568614",
+  "isCompleted": true,
+  "merchantName": null,
+  "userType": "",
+  "roundingError": 0,
+  "allowEdition": false,
+  "allowCancellation": false,
+  "isUserDataVisible": false,
+  "allowChangeSeller": false,
+  "_accountInfo": {
+    "HostName": "charth",
+    "MainAccountName": "charth",
+    "IsPersisted": true,
+    "IsRemoved": false,
+    "Id": "074c1158-b096-40c2-bdb1-60f04b715780",
+    "Cnpj": "25038636000153",
+    "CompanyName": "Charth Comercio de Artigos de Vestuário e Acessórios Ltda",
+    "TradingName": "Charth",
+    "AccountName": "charth",
+    "DefaultUrl": null,
+    "Address": null,
+    "Number": null,
+    "Complement": null,
+    "District": null,
+    "City": null,
+    "State": null,
+    "PostalCode": null,
+    "Country": "BRA",
+    "Telephone": "55319935512",
+    "IsActive": true,
+    "Sponsor": "0f219eac-cbfe-411b-a677-f80b2b8b0713",
+    "Logo": null,
+    "AppId": null,
+    "IsOperating": true,
+    "LV": "LV-",
+    "Sigla": null
+  },
+  "id": "011-order-delivered"
+}

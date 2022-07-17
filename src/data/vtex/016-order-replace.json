@@ -1,0 +1,781 @@
+{
+  "orders": [
+    {
+      "package": null,
+      "subjectItemAttachment": {
+        "item": "Maio Ombro a Ombro J...",
+        "totalItems": 3,
+        "extraItems": 2
+      },
+      "cancellationReason": null,
+      "items": [
+        {
+          "additionalInfo": {
+            "categoriesIds": "/38/",
+            "productClusterId": "162",
+            "commercialConditionId": "1",
+            "dimension": {
+              "cubicweight": 0,
+              "height": 6,
+              "length": 17,
+              "weight": 207,
+              "width": 30
+            },
+            "brandName": "SISLLA",
+            "brandId": "2000001",
+            "offeringInfo": null,
+            "offeringType": null,
+            "offeringTypeId": null
+          },
+          "sellerSku": "2859",
+          "priceTable": null,
+          "priceValidUntil": "2022-12-17T15:01:54Z",
+          "callCenterOperator": null,
+          "commission": 0,
+          "freightCommission": 0,
+          "taxCode": "",
+          "catalogProvider": "vrn:vtex.catalog-api-proxy:-:sislla:master:/proxy/authenticated/catalog/pvt/sku/stockkeepingunitbyid/2859",
+          "uniqueId": "3595C2F08A294C2EA5BA5511F411A761",
+          "id": "2859",
+          "productId": "1372",
+          "productRefId": "S668",
+          "refId": "2859",
+          "ean": "7899870016388",
+          "name": "Maio Ombro a Ombro Joaquina Preto GG",
+          "skuName": "Maio Ombro a Ombro Joaquina Preto GG",
+          "modalType": null,
+          "parentItemIndex": null,
+          "parentAssemblyBinding": null,
+          "assemblies": [],
+          "tax": 0,
+          "price": 13900,
+          "listPrice": 13900,
+          "manualPrice": null,
+          "manualPriceAppliedBy": null,
+          "sellingPrice": 13900,
+          "rewardValue": 0,
+          "isGift": false,
+          "preSaleDate": null,
+          "productCategoryIds": "/38/",
+          "productCategories": {
+            "5": "Roupas",
+            "38": "Moda Praia"
+          },
+          "quantity": 1,
+          "seller": "1",
+          "sellerChain": [
+            "1"
+          ],
+          "imageUrl": "http://sislla.vteximg.com.br/arquivos/ids/158706-100-130/maio-ombro-a-ombro-joaquina-preto-01.png?v=637724996024670000",
+          "detailUrl": "/maio-ombro-a-ombro-joaquina-preto-1372/p",
+          "components": [],
+          "bundleItems": [],
+          "attachments": [],
+          "attachmentOfferings": [],
+          "offerings": [],
+          "priceTags": [
+            {
+              "name": "discount@shipping-e804a31d-7fe8-4ef8-b4bd-c34522cf2cac#fb401f1a-ecbc-4216-801c-31156ad840d1",
+              "value": -468,
+              "rawValue": -4.68,
+              "isPercentual": false,
+              "identifier": "e804a31d-7fe8-4ef8-b4bd-c34522cf2cac"
+            }
+          ],
+          "availability": "available",
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "manufacturerCode": null,
+          "priceDefinition": {
+            "calculatedSellingPrice": 13900,
+            "total": 13900,
+            "sellingPrices": [
+              {
+                "value": 13900,
+                "quantity": 1
+              }
+            ]
+          }
+        },
+        {
+          "additionalInfo": {
+            "categoriesIds": "/38/",
+            "productClusterId": "162",
+            "commercialConditionId": "1",
+            "dimension": {
+              "cubicweight": 0,
+              "height": 6,
+              "length": 17,
+              "weight": 119,
+              "width": 30
+            },
+            "brandName": "SISLLA",
+            "brandId": "2000001",
+            "offeringInfo": null,
+            "offeringType": null,
+            "offeringTypeId": null
+          },
+          "sellerSku": "2779",
+          "priceTable": null,
+          "priceValidUntil": "2022-12-17T15:01:54Z",
+          "callCenterOperator": null,
+          "commission": 0,
+          "freightCommission": 0,
+          "taxCode": "",
+          "catalogProvider": "vrn:vtex.catalog-api-proxy:-:sislla:master:/proxy/authenticated/catalog/pvt/sku/stockkeepingunitbyid/2779",
+          "uniqueId": "B494B937B40A44209B92D62FBC1C6207",
+          "id": "2779",
+          "productId": "1353",
+          "productRefId": "S664",
+          "refId": "2779",
+          "ean": "7899870016234",
+          "name": "Top Biquini Trancoso Pitanga GG",
+          "skuName": "Top Biquini Trancoso Pitanga GG",
+          "modalType": null,
+          "parentItemIndex": null,
+          "parentAssemblyBinding": null,
+          "assemblies": [],
+          "tax": 0,
+          "price": 9900,
+          "listPrice": 9900,
+          "manualPrice": null,
+          "manualPriceAppliedBy": null,
+          "sellingPrice": 8910,
+          "rewardValue": 0,
+          "isGift": false,
+          "preSaleDate": null,
+          "productCategoryIds": "/38/",
+          "productCategories": {
+            "5": "Roupas",
+            "7": "Mais Vendidos",
+            "38": "Moda Praia"
+          },
+          "quantity": 1,
+          "seller": "1",
+          "sellerChain": [
+            "1"
+          ],
+          "imageUrl": "http://sislla.vteximg.com.br/arquivos/ids/159162-100-130/top-biquini-trancoso-pitanga-00.png?v=637740469731070000",
+          "detailUrl": "/top-biquini-trancoso-pitanga-1353/p",
+          "components": [],
+          "bundleItems": [],
+          "attachments": [],
+          "attachmentOfferings": [],
+          "offerings": [],
+          "priceTags": [
+            {
+              "name": "discount@price-92d475ba-a90d-4796-bc49-2ab2f4cf0e2c#427dcb5f-eedc-4069-9d21-069fc6efcfb4",
+              "value": -990,
+              "rawValue": -9.9,
+              "isPercentual": false,
+              "identifier": "92d475ba-a90d-4796-bc49-2ab2f4cf0e2c"
+            },
+            {
+              "name": "discount@shipping-e804a31d-7fe8-4ef8-b4bd-c34522cf2cac#fb401f1a-ecbc-4216-801c-31156ad840d1",
+              "value": -269,
+              "rawValue": -2.69,
+              "isPercentual": false,
+              "identifier": "e804a31d-7fe8-4ef8-b4bd-c34522cf2cac"
+            }
+          ],
+          "availability": "available",
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "manufacturerCode": null,
+          "priceDefinition": {
+            "calculatedSellingPrice": 8910,
+            "total": 8910,
+            "sellingPrices": [
+              {
+                "value": 8910,
+                "quantity": 1
+              }
+            ]
+          }
+        },
+        {
+          "additionalInfo": {
+            "categoriesIds": "/38/",
+            "productClusterId": "162",
+            "commercialConditionId": "1",
+            "dimension": {
+              "cubicweight": 0,
+              "height": 6,
+              "length": 17,
+              "weight": 112,
+              "width": 30
+            },
+            "brandName": "SISLLA",
+            "brandId": "2000001",
+            "offeringInfo": null,
+            "offeringType": null,
+            "offeringTypeId": null
+          },
+          "sellerSku": "2787",
+          "priceTable": null,
+          "priceValidUntil": "2022-12-17T15:01:54Z",
+          "callCenterOperator": null,
+          "commission": 0,
+          "freightCommission": 0,
+          "taxCode": "",
+          "catalogProvider": "vrn:vtex.catalog-api-proxy:-:sislla:master:/proxy/authenticated/catalog/pvt/sku/stockkeepingunitbyid/2787",
+          "uniqueId": "5A707F57C2874D4980CCF7BD99507F61",
+          "id": "2787",
+          "productId": "1354",
+          "productRefId": "S665",
+          "refId": "2787",
+          "ean": "7899870015916",
+          "name": "Hot Pants Biquini Trancoso Pitanga GG",
+          "skuName": "Hot Pants Biquini Trancoso Pitanga GG",
+          "modalType": null,
+          "parentItemIndex": null,
+          "parentAssemblyBinding": null,
+          "assemblies": [],
+          "tax": 0,
+          "price": 9900,
+          "listPrice": 9900,
+          "manualPrice": null,
+          "manualPriceAppliedBy": null,
+          "sellingPrice": 8910,
+          "rewardValue": 0,
+          "isGift": false,
+          "preSaleDate": null,
+          "productCategoryIds": "/38/",
+          "productCategories": {
+            "5": "Roupas",
+            "38": "Moda Praia"
+          },
+          "quantity": 1,
+          "seller": "1",
+          "sellerChain": [
+            "1"
+          ],
+          "imageUrl": "http://sislla.vteximg.com.br/arquivos/ids/159161-100-130/hot-pants-biquini-trancoso-pitanga-00.png?v=637740462447730000",
+          "detailUrl": "/hot-pants-biquini-trancoso-pitanga-1354/p",
+          "components": [],
+          "bundleItems": [],
+          "attachments": [],
+          "attachmentOfferings": [],
+          "offerings": [],
+          "priceTags": [
+            {
+              "name": "discount@price-92d475ba-a90d-4796-bc49-2ab2f4cf0e2c#427dcb5f-eedc-4069-9d21-069fc6efcfb4",
+              "value": -990,
+              "rawValue": -9.9,
+              "isPercentual": false,
+              "identifier": "92d475ba-a90d-4796-bc49-2ab2f4cf0e2c"
+            },
+            {
+              "name": "discount@shipping-e804a31d-7fe8-4ef8-b4bd-c34522cf2cac#fb401f1a-ecbc-4216-801c-31156ad840d1",
+              "value": -253,
+              "rawValue": -2.53,
+              "isPercentual": false,
+              "identifier": "e804a31d-7fe8-4ef8-b4bd-c34522cf2cac"
+            }
+          ],
+          "availability": "available",
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "manufacturerCode": null,
+          "priceDefinition": {
+            "calculatedSellingPrice": 8910,
+            "total": 8910,
+            "sellingPrices": [
+              {
+                "value": 8910,
+                "quantity": 1
+              }
+            ]
+          }
+        }
+      ],
+      "sellers": [
+        {
+          "subSellerId": "1",
+          "fulfillmentEndpoint": "http://fulfillment.vtexcommerce.com.br/api/fulfillment?sc=1&an=sislla",
+          "id": "1",
+          "name": "Sislla",
+          "logo": ""
+        }
+      ],
+      "giftRegistryData": null,
+      "receiptData": null,
+      "contextData": null,
+      "marketPlaceOrderId": "",
+      "marketPlaceOrderGroup": null,
+      "marketplaceServicesEndpoint": null,
+      "orderFormId": "7d7aac5982ea49b5b5384b7d20688166",
+      "sequence": "511244",
+      "affiliateId": "",
+      "status": "",
+      "callCenterOperator": "",
+      "userProfileId": "970697f1-2f01-4bdb-a950-7ac8a02d52bd",
+      "hostName": "sislla",
+      "creationVersion": null,
+      "creationEnvironment": null,
+      "lastChangeVersion": null,
+      "workflowInstanceId": null,
+      "marketplacePaymentValue": null,
+      "orderId": "1184150266159-01",
+      "orderGroup": "1184150266159",
+      "state": "payment-approved",
+      "isCheckedIn": false,
+      "sellerOrderId": "00-1184150266159-01",
+      "storeId": null,
+      "checkedInPickupPointId": null,
+      "value": 31720,
+      "totals": [
+        {
+          "id": "Items",
+          "name": "Total dos Itens",
+          "value": 33700
+        },
+        {
+          "id": "Discounts",
+          "name": "Total dos Descontos",
+          "value": -1980
+        },
+        {
+          "id": "Shipping",
+          "name": "Total do Frete",
+          "value": 0,
+          "alternativeTotals": [
+            {
+              "id": "AlternativeShippingTotal",
+              "name": "Alternative Shipping Total",
+              "value": 990
+            },
+            {
+              "id": "AlternativeShippingDiscount",
+              "name": "Alternative Shipping Discount",
+              "value": -990
+            }
+          ]
+        },
+        {
+          "id": "Tax",
+          "name": "Total da Taxa",
+          "value": 0
+        }
+      ],
+      "clientProfileData": {
+        "email": "5b01ea22659f4e7ea16d6d847a15c88a@ct.vtex.com.br",
+        "firstName": "Dailton",
+        "lastName": "Bastos",
+        "document": "06737981356",
+        "documentType": "cpf",
+        "phone": "+5586988820145",
+        "corporateName": null,
+        "tradeName": null,
+        "corporateDocument": null,
+        "stateInscription": null,
+        "corporatePhone": null,
+        "isCorporate": false,
+        "profileCompleteOnLoading": true,
+        "profileErrorOnLoading": false,
+        "customerClass": null
+      },
+      "ratesAndBenefitsData": {
+        "rateAndBenefitsIdentifiers": [
+          {
+            "id": "e804a31d-7fe8-4ef8-b4bd-c34522cf2cac",
+            "name": "Frete Grátis",
+            "featured": false,
+            "description": "a partir de R$ 299,00 válido para (expresso/expresso sul)",
+            "matchedParameters": {
+              "slaIds": "expresso"
+            },
+            "additionalInfo": null
+          },
+          {
+            "id": "92d475ba-a90d-4796-bc49-2ab2f4cf0e2c",
+            "name": "[COMPRE JUNTO] Top Biquini + Hot Pants",
+            "featured": true,
+            "description": "Compre Top + Hot Pants e ganhe 10% OFF",
+            "matchedParameters": {
+              "combo@Marketing": "2779,2787"
+            },
+            "additionalInfo": null
+          }
+        ],
+        "teaser": []
+      },
+      "shippingData": {
+        "address": {
+          "addressType": "residential",
+          "receiverName": "Gabriela  Cavalleiro Singh",
+          "addressId": "4919253729780",
+          "isDisposable": true,
+          "postalCode": "04106-040",
+          "city": "São Paulo",
+          "state": "SP",
+          "country": "BRA",
+          "street": "Rua Gregório Serrão",
+          "number": "187",
+          "neighborhood": "Vila Mariana",
+          "complement": "23",
+          "reference": null,
+          "geoCoordinates": [
+            -46.63557434082031,
+            -23.582414627075195
+          ]
+        },
+        "logisticsInfo": [
+          {
+            "itemIndex": 0,
+            "selectedSla": "Expresso",
+            "selectedDeliveryChannel": "delivery",
+            "addressId": "4919253729780",
+            "slas": [
+              {
+                "id": "Expresso",
+                "deliveryChannel": "delivery",
+                "name": "Expresso",
+                "deliveryIds": [
+                  {
+                    "courierId": "3",
+                    "warehouseId": "1774062",
+                    "dockId": "1512980",
+                    "courierName": "Expresso Aéreo",
+                    "quantity": 1,
+                    "kitItemDetails": []
+                  }
+                ],
+                "shippingEstimate": "3bd",
+                "shippingEstimateDate": "2021-12-22T15:04:36.7328493Z",
+                "lockTTL": "12d",
+                "availableDeliveryWindows": [],
+                "deliveryWindow": null,
+                "price": 0,
+                "listPrice": 468,
+                "tax": 0,
+                "pickupStoreInfo": {
+                  "isPickupStore": false,
+                  "friendlyName": null,
+                  "address": null,
+                  "additionalInfo": null,
+                  "dockId": null
+                },
+                "pickupPointId": null,
+                "pickupDistance": 0,
+                "polygonName": "",
+                "transitTime": "2bd"
+              }
+            ],
+            "shipsTo": [
+              "BRA"
+            ],
+            "itemId": "2859",
+            "deliveryChannels": [
+              {
+                "id": "delivery"
+              },
+              {
+                "id": "pickup-in-point"
+              }
+            ]
+          },
+          {
+            "itemIndex": 1,
+            "selectedSla": "Expresso",
+            "selectedDeliveryChannel": "delivery",
+            "addressId": "4919253729780",
+            "slas": [
+              {
+                "id": "Expresso",
+                "deliveryChannel": "delivery",
+                "name": "Expresso",
+                "deliveryIds": [
+                  {
+                    "courierId": "3",
+                    "warehouseId": "1774062",
+                    "dockId": "1512980",
+                    "courierName": "Expresso Aéreo",
+                    "quantity": 1,
+                    "kitItemDetails": []
+                  }
+                ],
+                "shippingEstimate": "3bd",
+                "shippingEstimateDate": "2021-12-22T15:04:36.7328493Z",
+                "lockTTL": "12d",
+                "availableDeliveryWindows": [],
+                "deliveryWindow": null,
+                "price": 0,
+                "listPrice": 269,
+                "tax": 0,
+                "pickupStoreInfo": {
+                  "isPickupStore": false,
+                  "friendlyName": null,
+                  "address": null,
+                  "additionalInfo": null,
+                  "dockId": null
+                },
+                "pickupPointId": null,
+                "pickupDistance": 0,
+                "polygonName": "",
+                "transitTime": "2bd"
+              }
+            ],
+            "shipsTo": [
+              "BRA"
+            ],
+            "itemId": "2779",
+            "deliveryChannels": [
+              {
+                "id": "delivery"
+              },
+              {
+                "id": "pickup-in-point"
+              }
+            ]
+          },
+          {
+            "itemIndex": 2,
+            "selectedSla": "Expresso",
+            "selectedDeliveryChannel": "delivery",
+            "addressId": "4919253729780",
+            "slas": [
+              {
+                "id": "Expresso",
+                "deliveryChannel": "delivery",
+                "name": "Expresso",
+                "deliveryIds": [
+                  {
+                    "courierId": "3",
+                    "warehouseId": "1774062",
+                    "dockId": "1512980",
+                    "courierName": "Expresso Aéreo",
+                    "quantity": 1,
+                    "kitItemDetails": []
+                  }
+                ],
+                "shippingEstimate": "3bd",
+                "shippingEstimateDate": "2021-12-22T15:04:36.7328493Z",
+                "lockTTL": "12d",
+                "availableDeliveryWindows": [],
+                "deliveryWindow": null,
+                "price": 0,
+                "listPrice": 253,
+                "tax": 0,
+                "pickupStoreInfo": {
+                  "isPickupStore": false,
+                  "friendlyName": null,
+                  "address": null,
+                  "additionalInfo": null,
+                  "dockId": null
+                },
+                "pickupPointId": null,
+                "pickupDistance": 0,
+                "polygonName": "",
+                "transitTime": "2bd"
+              }
+            ],
+            "shipsTo": [
+              "BRA"
+            ],
+            "itemId": "2787",
+            "deliveryChannels": [
+              {
+                "id": "delivery"
+              },
+              {
+                "id": "pickup-in-point"
+              }
+            ]
+          }
+        ],
+        "selectedAddresses": [
+          {
+            "addressType": "residential",
+            "receiverName": "Gabriela  Cavalleiro Singh",
+            "addressId": "4919253729780",
+            "isDisposable": true,
+            "postalCode": "04106-040",
+            "city": "São Paulo",
+            "state": "SP",
+            "country": "BRA",
+            "street": "Rua Gregório Serrão",
+            "number": "187",
+            "neighborhood": "Vila Mariana",
+            "complement": "23",
+            "reference": null,
+            "geoCoordinates": [
+              -46.63557434082031,
+              -23.582414627075195
+            ]
+          }
+        ],
+        "availableAddresses": [
+          {
+            "addressType": "residential",
+            "receiverName": "Gabriela  Cavalleiro Singh",
+            "addressId": "4919253729780",
+            "isDisposable": true,
+            "postalCode": "04106-040",
+            "city": "São Paulo",
+            "state": "SP",
+            "country": "BRA",
+            "street": "Rua Gregório Serrão",
+            "number": "187",
+            "neighborhood": "Vila Mariana",
+            "complement": "23",
+            "reference": null,
+            "geoCoordinates": [
+              -46.63557434082031,
+              -23.582414627075195
+            ]
+          }
+        ],
+        "pickupPoints": []
+      },
+      "paymentData": {
+        "giftCards": [],
+        "transactions": [
+          {
+            "isActive": true,
+            "transactionId": "0499D9010CFB4260A1A33E6777F90D85",
+            "merchantName": "SISLLA",
+            "payments": [
+              {
+                "id": "C244510B238142FB8EF451E140EBA1C1",
+                "paymentSystem": "4",
+                "paymentSystemName": "Mastercard",
+                "value": 31720,
+                "installments": 2,
+                "connectorResponses": {
+                  "Tid": "468514934",
+                  "ReturnCode": null,
+                  "Message": null,
+                  "authId": "052366",
+                  "nsu": "468514934",
+                  "acquirer": "pagarme"
+                },
+                "referenceValue": 31720,
+                "cardHolder": null,
+                "cardNumber": null,
+                "firstDigits": "550209",
+                "lastDigits": "1754",
+                "cvv2": null,
+                "expireMonth": null,
+                "expireYear": null,
+                "url": null,
+                "koinUrl": null,
+                "tid": "468514934",
+                "redemptionCode": null,
+                "giftCardId": null,
+                "giftCardProvider": null,
+                "giftCardAsDiscount": null,
+                "group": "creditCard",
+                "dueDate": null,
+                "accountId": "C9883705E7E14E84B3856B47E33F19BF",
+                "parentAccountId": null,
+                "bankIssuedInvoiceIdentificationNumber": null,
+                "bankIssuedInvoiceIdentificationNumberFormatted": null,
+                "bankIssuedInvoiceBarCodeNumber": null,
+                "bankIssuedInvoiceBarCodeType": null,
+                "billingAddress": {
+                  "addressType": "residential",
+                  "receiverName": "Gabriela  Cavalleiro Singh",
+                  "addressId": "4919253729780",
+                  "isDisposable": true,
+                  "postalCode": "04106-040",
+                  "city": "São Paulo",
+                  "state": "SP",
+                  "country": "BRA",
+                  "street": "Rua Gregório Serrão",
+                  "number": "187",
+                  "neighborhood": "Vila Mariana",
+                  "complement": "23",
+                  "reference": null,
+                  "geoCoordinates": [
+                    -46.63557434082031,
+                    -23.582414627075195
+                  ]
+                }
+              }
+            ],
+            "sharedTransaction": false
+          }
+        ]
+      },
+      "clientPreferencesData": {
+        "locale": "pt-BR",
+        "optinNewsLetter": true
+      },
+      "commercialConditionData": null,
+      "marketingData": null,
+      "storePreferencesData": {
+        "countryCode": "BRA",
+        "saveUserData": false,
+        "timeZone": "E. South America Standard Time",
+        "currencyCode": "BRL",
+        "currencyLocale": 1046,
+        "currencySymbol": "R$",
+        "currencyFormatInfo": {
+          "currencyDecimalDigits": 2,
+          "currencyDecimalSeparator": ",",
+          "currencyGroupSeparator": ".",
+          "currencyGroupSize": 3,
+          "startsWithCurrencySymbol": true
+        }
+      },
+      "openTextField": null,
+      "invoiceData": null,
+      "itemMetadata": null,
+      "taxData": null,
+      "customData": null,
+      "hooksData": null,
+      "changeData": null,
+      "subscriptionData": null,
+      "salesChannel": "1",
+      "followUpEmail": "e660b85d28ba4c03b307ee846685ee2e@ct.vtex.com.br",
+      "creationDate": "2021-12-17T15:04:26.1631114Z",
+      "lastChange": "2021-12-17T15:04:38.3116162Z",
+      "timeZoneCreationDate": "2021-12-17T12:04:26.1631114",
+      "timeZoneLastChange": "2021-12-17T12:04:38.3116162",
+      "isCompleted": true,
+      "merchantName": null,
+      "userType": "",
+      "roundingError": 0,
+      "allowEdition": false,
+      "allowCancellation": false,
+      "isUserDataVisible": false,
+      "allowChangeSeller": false
+    }
+  ],
+  "ordersUrl": "http://www.sislla.com.br/account#/orders",
+  "orderGroup": "1184150266159",
+  "subjectItemAttachment": {
+    "item": "Maio Ombro a Ombro J...",
+    "totalItems": 3,
+    "extraItems": 2
+  },
+  "split": false,
+  "totalValue": 31720,
+  "callCenterOperatorData": null,
+  "_accountInfo": {
+    "MainAccountName": "charth",
+    "AccountName": "charth",
+    "Cnpj": "25038636000153",
+    "Id": "074c1158-b096-40c2-bdb1-60f04b715780",
+    "IsActive": true,
+    "IsOperating": true,
+    "CreationDate": "2018-01-30T16:56:02",
+    "OperationDate": "2018-05-16T15:45:06",
+    "CompanyName": "Charth Comercio de Artigos de Vestuário e Acessórios Ltda",
+    "TradingName": "Charth",
+    "City": "Nova Lima",
+    "Complement": "13º Andar",
+    "Country": "Brasil",
+    "State": "MG",
+    "Address": "Rua Senador Milton Campos",
+    "District": "Vila da Serra",
+    "Number": "35",
+    "PostalCode": "34006-050",
+    "Licences": null,
+    "ParentAccountName": null,
+    "InactivationDate": null,
+    "Platform": "vtex"
+  },
+  "id": "016-order-replace"
+}

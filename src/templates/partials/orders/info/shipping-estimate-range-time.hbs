@@ -1,0 +1,32 @@
+<!-- Single or many days -->
+{{#compare shippingEstimateDays ">" "1"}}
+  <!-- Running days or Business days -->
+  {{#eq shippingEstimateDaysType "bd"}}
+    {{shippingEstimateDays}} dias úteis
+  {{else}}
+    {{#eq shippingEstimateDaysType "d"}}
+      {{shippingEstimateDays}} dias
+    {{else}}
+      {{#eq shippingEstimateDaysType "h"}}
+        {{shippingEstimateDays}} horas
+      {{else}}
+        {{shippingEstimateDays}} minutos
+      {{/eq}}
+    {{/eq}}
+  {{/eq}}
+{{else}}
+  <!-- Running days or Business days -->
+  {{#eq shippingEstimateDaysType "bd"}}
+    {{shippingEstimateDays}} dia útil
+  {{else}}
+    {{#eq shippingEstimateDaysType "d"}}
+      {{shippingEstimateDays}} dia
+    {{else}}
+      {{#eq shippingEstimateDaysType "h"}}
+        {{shippingEstimateDays}} hora
+      {{else}}
+        {{shippingEstimateDays}} minuto
+      {{/eq}}
+    {{/eq}}
+  {{/eq}}
+{{/compare}}

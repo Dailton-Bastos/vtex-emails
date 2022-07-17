@@ -1,0 +1,79 @@
+{{#if changeData}}
+  {{#each changeData.changesData}}
+    <!-- Itens Added -->
+    {{#if itemsAdded}}
+      <span style="font-size:12px; display: block; margin-top: 10px;">Item adicionado</span>
+      <div style="border: 1px solid #ececf0;margin: 15px 0;">
+        <table style="width: 100%; border-collapse: collapse; border-spacing: 0;">
+          {{#each itemsAdded}}
+            <tr style="margin-bottom: 20px;">
+              <td style="width: 45%; padding: 6px 8px;">
+                <table style="width: 100%; border-collapse: collapse; border-spacing: 0;">
+                  <tr>
+                    <td style="font-size: 14px; font-weight: normal; color: #2b2b2b;">
+                      {{name}}
+                    </td>
+                  </tr>
+                </table>
+              </td>
+
+              <td style="width: 10%; font-size: 14px; font-weight: normal; color: #2b2b2b;">
+                {{quantity}} un
+              </td>
+
+              <td style="width: 15%; font-size: 14px; font-weight: normal; color: #2b2b2b;">
+                R$ {{formatCurrency (math price '*' quantity)}}
+              </td>
+
+              <td style="width: 15%; font-size: 14px; font-weight: normal; color: #2b2b2b;">
+                R$ {{formatCurrency (math sellingPrice '-' price)}}
+              </td>
+
+              <td style="width: 15%; font-size: 14px; font-weight: normal; color: #2b2b2b; text-align: right; padding-right: 12px">
+                R$ {{formatCurrency (math sellingPrice '*' quantity)}}
+              </td>
+            </tr>
+          {{/each}}
+        </table>
+      </div>
+    {{/if}}
+
+    <!-- Itens Removed -->
+    {{#if itemsRemoved}}
+      <span style="font-size:12px;">Item removido</span>
+      <div style="border: 1px solid #ececf0;margin: 15px 0;">
+        <table style="width: 100%; border-collapse: collapse; border-spacing: 0;">
+          {{#each itemsRemoved}}
+            <tr style="margin-bottom: 20px;">
+              <td style="width: 45%; padding: 6px 8px;">
+                <table style="width: 100%; border-collapse: collapse; border-spacing: 0;">
+                  <tr>
+                    <td style="font-size: 14px; font-weight: normal; color: #2b2b2b;">
+                      {{name}}
+                    </td>
+                  </tr>
+                </table>
+              </td>
+
+              <td style="width: 10%; font-size: 14px; font-weight: normal; color: #2b2b2b;">
+                {{quantity}} un
+              </td>
+
+              <td style="width: 15%; font-size: 14px; font-weight: normal; color: #2b2b2b;">
+                R$ {{formatCurrency (math price '*' quantity)}}
+              </td>
+
+              <td style="width: 15%; font-size: 14px; font-weight: normal; color: #2b2b2b;">
+                R$ {{formatCurrency (math sellingPrice '-' price)}}
+              </td>
+
+              <td style="width: 15%; font-size: 14px; font-weight: normal; color: #2b2b2b; text-align: right; padding-right: 12px">
+                R$ {{formatCurrency (math sellingPrice '*' quantity)}}
+              </td>
+            </tr>
+          {{/each}}
+        </table>
+      </div>
+    {{/if}}
+  {{/each}}
+{{/if}}

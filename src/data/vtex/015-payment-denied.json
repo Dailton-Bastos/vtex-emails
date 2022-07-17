@@ -1,0 +1,581 @@
+{
+  "package": null,
+  "subjectItemAttachment": {
+    "item": "Top Dalia - Rosa Giz...",
+    "totalItems": 2,
+    "extraItems": 1
+  },
+  "cancellationReason": null,
+  "items": [
+    {
+      "additionalInfo": {
+        "categoriesIds": "/67/",
+        "productClusterId": "",
+        "commercialConditionId": "1",
+        "dimension": {
+          "cubicweight": 1,
+          "height": 10,
+          "length": 15,
+          "weight": 400,
+          "width": 15
+        },
+        "brandName": "CHARTH",
+        "brandId": "2000000",
+        "offeringInfo": null,
+        "offeringType": null,
+        "offeringTypeId": null
+      },
+      "sellerSku": "21",
+      "priceTable": null,
+      "priceValidUntil": "2022-12-07T19:38:34Z",
+      "callCenterOperator": null,
+      "commission": 0,
+      "freightCommission": 0,
+      "taxCode": null,
+      "catalogProvider": "vrn:vtex.catalog-api-proxy:-:charth:master:/proxy/authenticated/catalog/pvt/sku/stockkeepingunitbyid/21",
+      "uniqueId": "73FF9CE2102D4672B8FC307A7F114A71",
+      "id": "21",
+      "productId": "6",
+      "productRefId": "3731",
+      "refId": null,
+      "ean": "789900000417",
+      "name": "Top Dalia - Rosa Giz PP",
+      "skuName": "PP",
+      "modalType": null,
+      "parentItemIndex": null,
+      "parentAssemblyBinding": null,
+      "assemblies": [],
+      "tax": 0,
+      "price": 39800,
+      "listPrice": 39800,
+      "manualPrice": null,
+      "manualPriceAppliedBy": null,
+      "sellingPrice": 19900,
+      "rewardValue": 0,
+      "isGift": false,
+      "preSaleDate": null,
+      "productCategoryIds": "/67/",
+      "productCategories": {
+        "67": "Sem"
+      },
+      "quantity": 1,
+      "seller": "1",
+      "sellerChain": [
+        "1"
+      ],
+      "imageUrl": "http://charth.vteximg.com.br/arquivos/ids/169858-109-109/TOP-DALIA-ROSA--GIZ--1-.jpg?v=637691275070330000",
+      "detailUrl": "/top-dalia---rosa-giz/p",
+      "components": [],
+      "bundleItems": [],
+      "attachments": [],
+      "attachmentOfferings": [],
+      "offerings": [],
+      "priceTags": [
+        {
+          "name": "discount@price-3c48866c-adac-4512-b976-87e89aaf01a1#8bebe295-f1e9-46a0-87f6-c79dd1e035e6",
+          "value": -19900,
+          "rawValue": -199,
+          "isPercentual": false,
+          "identifier": "3c48866c-adac-4512-b976-87e89aaf01a1"
+        }
+      ],
+      "availability": "available",
+      "measurementUnit": "un",
+      "unitMultiplier": 1,
+      "manufacturerCode": "",
+      "priceDefinition": {
+        "calculatedSellingPrice": 19900,
+        "total": 19900,
+        "sellingPrices": [
+          {
+            "value": 19900,
+            "quantity": 1
+          }
+        ]
+      }
+    },
+    {
+      "additionalInfo": {
+        "categoriesIds": "/16/79/",
+        "productClusterId": "",
+        "commercialConditionId": "1",
+        "dimension": {
+          "cubicweight": 1,
+          "height": 10,
+          "length": 15,
+          "weight": 400,
+          "width": 15
+        },
+        "brandName": "CHARTH",
+        "brandId": "2000000",
+        "offeringInfo": null,
+        "offeringType": null,
+        "offeringTypeId": null
+      },
+      "sellerSku": "17",
+      "priceTable": null,
+      "priceValidUntil": "2022-12-07T19:38:34Z",
+      "callCenterOperator": null,
+      "commission": 0,
+      "freightCommission": 0,
+      "taxCode": null,
+      "catalogProvider": "vrn:vtex.catalog-api-proxy:-:charth:master:/proxy/authenticated/catalog/pvt/sku/stockkeepingunitbyid/17",
+      "uniqueId": "C146E9CA87F74F52BFCBDB0E836D434A",
+      "id": "17",
+      "productId": "5",
+      "productRefId": "4713",
+      "refId": null,
+      "ean": "789900001876",
+      "name": "T-shirt Nó - Nuvem PP",
+      "skuName": "PP",
+      "modalType": null,
+      "parentItemIndex": null,
+      "parentAssemblyBinding": null,
+      "assemblies": [],
+      "tax": 0,
+      "price": 19800,
+      "listPrice": 19800,
+      "manualPrice": null,
+      "manualPriceAppliedBy": null,
+      "sellingPrice": 9900,
+      "rewardValue": 0,
+      "isGift": false,
+      "preSaleDate": null,
+      "productCategoryIds": "/16/79/",
+      "productCategories": {
+        "16": "Essentials",
+        "79": "Blusa Manga Curta"
+      },
+      "quantity": 1,
+      "seller": "1",
+      "sellerChain": [
+        "1"
+      ],
+      "imageUrl": "http://charth.vteximg.com.br/arquivos/ids/169851-109-109/Charth---Campanha---parte-3---205.jpg?v=637691253194600000",
+      "detailUrl": "/t-shirt-no---nuvem/p",
+      "components": [],
+      "bundleItems": [],
+      "attachments": [],
+      "attachmentOfferings": [],
+      "offerings": [],
+      "priceTags": [
+        {
+          "name": "discount@price-3c48866c-adac-4512-b976-87e89aaf01a1#8bebe295-f1e9-46a0-87f6-c79dd1e035e6",
+          "value": -9900,
+          "rawValue": -99,
+          "isPercentual": false,
+          "identifier": "3c48866c-adac-4512-b976-87e89aaf01a1"
+        }
+      ],
+      "availability": "available",
+      "measurementUnit": "un",
+      "unitMultiplier": 1,
+      "manufacturerCode": "",
+      "priceDefinition": {
+        "calculatedSellingPrice": 9900,
+        "total": 9900,
+        "sellingPrices": [
+          {
+            "value": 9900,
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  ],
+  "sellers": [
+    {
+      "subSellerId": "1",
+      "fulfillmentEndpoint": "http://fulfillment.vtexcommerce.com.br/api/fulfillment?an=charth",
+      "id": "1",
+      "name": "Charth",
+      "logo": ""
+    }
+  ],
+  "giftRegistryData": null,
+  "receiptData": null,
+  "contextData": null,
+  "marketPlaceOrderId": "",
+  "marketPlaceOrderGroup": null,
+  "marketplaceServicesEndpoint": null,
+  "orderFormId": "06571e69a3fa4c49af462e8e6212241d",
+  "sequence": "525102",
+  "affiliateId": "",
+  "status": "",
+  "callCenterOperator": "",
+  "userProfileId": "c2bc3c7c-f4c0-476b-9f6c-4c482466df29",
+  "hostName": "charth",
+  "creationVersion": null,
+  "creationEnvironment": null,
+  "lastChangeVersion": null,
+  "workflowInstanceId": null,
+  "marketplacePaymentValue": null,
+  "orderId": "1181802522132-01",
+  "orderGroup": "1181802522132",
+  "state": "payment-approved",
+  "isCheckedIn": false,
+  "sellerOrderId": "00-1181802522132-01",
+  "storeId": null,
+  "checkedInPickupPointId": null,
+  "value": 33300,
+  "totals": [
+    {
+      "id": "Items",
+      "name": "Total dos Itens",
+      "value": 59600
+    },
+    {
+      "id": "Discounts",
+      "name": "Total dos Descontos",
+      "value": -29800
+    },
+    {
+      "id": "Shipping",
+      "name": "Total do Frete",
+      "value": 3500
+    },
+    {
+      "id": "Tax",
+      "name": "Total da Taxa",
+      "value": 0
+    }
+  ],
+  "clientProfileData": {
+    "email": "5b01ea22659f4e7ea16d6d847a15c88a@ct.vtex.com.br",
+    "firstName": "Dailton",
+    "lastName": "Bastos",
+    "document": "06737981356",
+    "documentType": "cpf",
+    "phone": "+5586988820145",
+    "corporateName": null,
+    "tradeName": null,
+    "corporateDocument": null,
+    "stateInscription": null,
+    "corporatePhone": null,
+    "isCorporate": false,
+    "profileCompleteOnLoading": true,
+    "profileErrorOnLoading": false,
+    "customerClass": null
+  },
+  "ratesAndBenefitsData": {
+    "rateAndBenefitsIdentifiers": [
+      {
+        "id": "3c48866c-adac-4512-b976-87e89aaf01a1",
+        "name": "Kit Essentials",
+        "featured": true,
+        "description": "dnfjsgjkdfdfdf",
+        "matchedParameters": {
+          "Seller@CatalogSystem": "1|inclusive",
+          "combo@Marketing": "17,21"
+        },
+        "additionalInfo": {
+          "111": "22"
+        }
+      }
+    ],
+    "teaser": []
+  },
+  "shippingData": {
+    "address": {
+      "addressType": "residential",
+      "receiverName": "MARCOS VIANA JUNIOR",
+      "addressId": "19657a295bd8464287f6ccb10e2beee4",
+      "isDisposable": true,
+      "postalCode": "30310-230",
+      "city": "Belo Horizonte",
+      "state": "MG",
+      "country": "BRA",
+      "street": "Rua Alfenas",
+      "number": "201",
+      "neighborhood": "Cruzeiro",
+      "complement": "APT 201",
+      "reference": null,
+      "geoCoordinates": [
+        -43.924991607666016,
+        -19.945451736450195
+      ]
+    },
+    "logisticsInfo": [
+      {
+        "itemIndex": 0,
+        "selectedSla": "Econômico",
+        "selectedDeliveryChannel": "delivery",
+        "addressId": "19657a295bd8464287f6ccb10e2beee4",
+        "slas": [
+          {
+            "id": "Econômico",
+            "deliveryChannel": "delivery",
+            "name": "Econômico",
+            "deliveryIds": [
+              {
+                "courierId": "186e5de",
+                "warehouseId": "1b2f5e5",
+                "dockId": "1afd3ff",
+                "courierName": "pac",
+                "quantity": 1,
+                "kitItemDetails": []
+              }
+            ],
+            "shippingEstimate": "8bd",
+            "shippingEstimateDate": "2021-12-17T19:42:12.4827241Z",
+            "lockTTL": "12d",
+            "availableDeliveryWindows": [],
+            "deliveryWindow": null,
+            "price": 1750,
+            "listPrice": 1750,
+            "tax": 0,
+            "pickupStoreInfo": {
+              "isPickupStore": false,
+              "friendlyName": null,
+              "address": null,
+              "additionalInfo": null,
+              "dockId": null
+            },
+            "pickupPointId": null,
+            "pickupDistance": 0,
+            "polygonName": "",
+            "transitTime": "8bd"
+          }
+        ],
+        "shipsTo": [
+          "BRA"
+        ],
+        "itemId": "21",
+        "deliveryChannels": [
+          {
+            "id": "delivery"
+          }
+        ]
+      },
+      {
+        "itemIndex": 1,
+        "selectedSla": "Econômico",
+        "selectedDeliveryChannel": "delivery",
+        "addressId": "19657a295bd8464287f6ccb10e2beee4",
+        "slas": [
+          {
+            "id": "Econômico",
+            "deliveryChannel": "delivery",
+            "name": "Econômico",
+            "deliveryIds": [
+              {
+                "courierId": "186e5de",
+                "warehouseId": "1b2f5e5",
+                "dockId": "1afd3ff",
+                "courierName": "pac",
+                "quantity": 1,
+                "kitItemDetails": []
+              }
+            ],
+            "shippingEstimate": "8bd",
+            "shippingEstimateDate": "2021-12-17T19:42:12.4827241Z",
+            "lockTTL": "12d",
+            "availableDeliveryWindows": [],
+            "deliveryWindow": null,
+            "price": 1750,
+            "listPrice": 1750,
+            "tax": 0,
+            "pickupStoreInfo": {
+              "isPickupStore": false,
+              "friendlyName": null,
+              "address": null,
+              "additionalInfo": null,
+              "dockId": null
+            },
+            "pickupPointId": null,
+            "pickupDistance": 0,
+            "polygonName": "",
+            "transitTime": "8bd"
+          }
+        ],
+        "shipsTo": [
+          "BRA"
+        ],
+        "itemId": "17",
+        "deliveryChannels": [
+          {
+            "id": "delivery"
+          }
+        ]
+      }
+    ],
+    "selectedAddresses": [
+      {
+        "addressType": "residential",
+        "receiverName": "MARCOS VIANA JUNIOR",
+        "addressId": "19657a295bd8464287f6ccb10e2beee4",
+        "isDisposable": true,
+        "postalCode": "30310-230",
+        "city": "Belo Horizonte",
+        "state": "MG",
+        "country": "BRA",
+        "street": "Rua Alfenas",
+        "number": "201",
+        "neighborhood": "Cruzeiro",
+        "complement": "APT 201",
+        "reference": null,
+        "geoCoordinates": [
+          -43.924991607666016,
+          -19.945451736450195
+        ]
+      }
+    ],
+    "availableAddresses": [
+      {
+        "addressType": "residential",
+        "receiverName": "MARCOS VIANA JUNIOR",
+        "addressId": "19657a295bd8464287f6ccb10e2beee4",
+        "isDisposable": true,
+        "postalCode": "30310-230",
+        "city": "Belo Horizonte",
+        "state": "MG",
+        "country": "BRA",
+        "street": "Rua Alfenas",
+        "number": "201",
+        "neighborhood": "Cruzeiro",
+        "complement": "APT 201",
+        "reference": null,
+        "geoCoordinates": [
+          -43.924991607666016,
+          -19.945451736450195
+        ]
+      }
+    ],
+    "pickupPoints": []
+  },
+  "paymentData": {
+    "giftCards": [
+      {
+        "redemptionCode": "EXGV-OEOJ-KYTC-PCXO",
+        "provider": "VtexGiftCard",
+        "value": 33300,
+        "balance": 33300,
+        "name": null,
+        "caption": null,
+        "id": "_8",
+        "inUse": true,
+        "isSpecialCard": false,
+        "groupName": null
+      }
+    ],
+    "transactions": [
+      {
+        "isActive": true,
+        "transactionId": "32C47AD974254E83AADFE6E183BA0B69",
+        "merchantName": "CHARTH",
+        "payments": [
+          {
+            "id": "7C228550A29D4D36BF3FE2AFE1768DCF",
+            "paymentSystem": "16",
+            "paymentSystemName": "Vale",
+            "value": 33300,
+            "installments": 1,
+            "connectorResponses": {},
+            "referenceValue": 33300,
+            "cardHolder": null,
+            "cardNumber": null,
+            "firstDigits": null,
+            "lastDigits": null,
+            "cvv2": null,
+            "expireMonth": null,
+            "expireYear": null,
+            "url": null,
+            "koinUrl": null,
+            "tid": null,
+            "redemptionCode": "EXGV-OE**-****-PCXO",
+            "giftCardId": "8",
+            "giftCardProvider": "VtexGiftCard",
+            "giftCardAsDiscount": null,
+            "group": "giftCard",
+            "dueDate": null,
+            "accountId": null,
+            "parentAccountId": null,
+            "bankIssuedInvoiceIdentificationNumber": null,
+            "bankIssuedInvoiceIdentificationNumberFormatted": null,
+            "bankIssuedInvoiceBarCodeNumber": null,
+            "bankIssuedInvoiceBarCodeType": null,
+            "billingAddress": null
+          }
+        ],
+        "sharedTransaction": false
+      }
+    ]
+  },
+  "clientPreferencesData": {
+    "locale": "pt-BR",
+    "optinNewsLetter": true
+  },
+  "commercialConditionData": null,
+  "marketingData": {
+    "utmSource": "",
+    "utmMedium": "",
+    "utmCampaign": "",
+    "utmipage": "",
+    "utmiPart": "",
+    "utmiCampaign": "",
+    "coupon": null,
+    "marketingTags": []
+  },
+  "storePreferencesData": {
+    "countryCode": "BRA",
+    "saveUserData": false,
+    "timeZone": "E. South America Standard Time",
+    "currencyCode": "BRL",
+    "currencyLocale": 1046,
+    "currencySymbol": "R$",
+    "currencyFormatInfo": {
+      "currencyDecimalDigits": 2,
+      "currencyDecimalSeparator": ",",
+      "currencyGroupSeparator": ".",
+      "currencyGroupSize": 3,
+      "startsWithCurrencySymbol": true
+    }
+  },
+  "openTextField": null,
+  "invoiceData": null,
+  "itemMetadata": null,
+  "taxData": null,
+  "customData": null,
+  "hooksData": null,
+  "changeData": null,
+  "subscriptionData": null,
+  "salesChannel": "1",
+  "followUpEmail": "ccbc8cb5eb2d4c3e9f38182c0b0d0c49@ct.vtex.com.br",
+  "creationDate": "2021-12-07T19:42:04.2513845Z",
+  "lastChange": "2021-12-07T19:42:13.8979298Z",
+  "timeZoneCreationDate": "2021-12-07T16:42:04.2513845",
+  "timeZoneLastChange": "2021-12-07T16:42:13.8979298",
+  "isCompleted": true,
+  "merchantName": null,
+  "userType": "",
+  "roundingError": 0,
+  "allowEdition": false,
+  "allowCancellation": false,
+  "isUserDataVisible": false,
+  "allowChangeSeller": false,
+  "_accountInfo": {
+    "MainAccountName": "charth",
+    "AccountName": "charth",
+    "Cnpj": "25038636000153",
+    "Id": "074c1158-b096-40c2-bdb1-60f04b715780",
+    "IsActive": true,
+    "IsOperating": true,
+    "CreationDate": "2018-01-30T16:56:02",
+    "OperationDate": "2018-05-16T15:45:06",
+    "CompanyName": "Charth Comercio de Artigos de Vestuário e Acessórios Ltda",
+    "TradingName": "Charth",
+    "City": "Nova Lima",
+    "Complement": "13º Andar",
+    "Country": "Brasil",
+    "State": "MG",
+    "Address": "Rua Senador Milton Campos",
+    "District": "Vila da Serra",
+    "Number": "35",
+    "PostalCode": "34006-050",
+    "Licences": null,
+    "ParentAccountName": null,
+    "InactivationDate": null,
+    "Platform": "vtex"
+  },
+  "id": "015-payment-denied"
+}

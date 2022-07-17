@@ -1,0 +1,417 @@
+{
+  "package": {
+    "items": [
+      {
+        "itemIndex": 0,
+        "quantity": 1,
+        "price": 79800,
+        "description": null,
+        "unitMultiplier": 0
+      }
+    ],
+    "courier": null,
+    "invoiceNumber": "005881",
+    "invoiceValue": 84863,
+    "invoiceUrl": null,
+    "issuanceDate": "2020-07-30T00:00:00",
+    "trackingNumber": null,
+    "invoiceKey": "31200725038636000153550020000058811372681984",
+    "trackingUrl": null,
+    "embeddedInvoice": "",
+    "type": "Output",
+    "courierStatus": null,
+    "cfop": null,
+    "restitutions": {},
+    "volumes": 0
+  },
+  "subjectItemAttachment": {
+    "item": "Conjunto Fran Off Wh...",
+    "totalItems": 1
+  },
+  "cancellationReason": null,
+  "items": [
+    {
+      "additionalInfo": {
+        "dimension": {
+          "cubicweight": 1,
+          "height": 10,
+          "length": 10,
+          "weight": 700,
+          "width": 10
+        },
+        "categoriesIds": "/2/17/",
+        "productClusterId": "139,140",
+        "commercialConditionId": "1",
+        "brandName": "Charth",
+        "brandId": "2000000",
+        "offeringInfo": null,
+        "offeringType": null,
+        "offeringTypeId": null
+      },
+      "sellerSku": "6060",
+      "priceTable": null,
+      "priceValidUntil": "2021-07-29T20:28:36.460132Z",
+      "callCenterOperator": null,
+      "commission": 0,
+      "freightCommission": 0,
+      "taxCode": "",
+      "costPrice": null,
+      "uniqueId": "F7BAF11AFE824E7B99D19E05DF028FD6",
+      "id": "6060",
+      "productId": "1479",
+      "productRefId": "12997008",
+      "refId": "66074855",
+      "ean": null,
+      "name": "Conjunto Fran Off White Charth PP",
+      "skuName": "PP",
+      "modalType": null,
+      "parentItemIndex": null,
+      "parentAssemblyBinding": null,
+      "assemblies": [],
+      "tax": 0,
+      "priceDefinitions": null,
+      "price": 79800,
+      "listPrice": 79800,
+      "manualPrice": null,
+      "sellingPrice": 79800,
+      "orderRewardStatus": null,
+      "rewardValue": 0,
+      "isGift": false,
+      "preSaleDate": null,
+      "productCategoryIds": "/2/17/",
+      "productCategories": {
+        "2": "Tops e Blusas",
+        "17": "Moletons"
+      },
+      "quantity": 1,
+      "seller": "1",
+      "sellerChain": [
+        "1"
+      ],
+      "imageUrl": "http://charth.vteximg.com.br/arquivos/ids/164607-109-109/conjunto-fran-off-white-charth---2-.jpg?v=637291467903530000",
+      "detailUrl": "/conjunto-fran-off-white-charth/p",
+      "components": [],
+      "bundleItems": [],
+      "attachments": [],
+      "attachmentOfferings": [],
+      "offerings": [],
+      "priceTags": [],
+      "availability": "available",
+      "measurementUnit": "un",
+      "unitMultiplier": 1,
+      "manufacturerCode": ""
+    }
+  ],
+  "sellers": [
+    {
+      "subSellerId": "1",
+      "fulfillmentEndpoint": "http://fulfillment.vtexcommerce.com.br/api/fulfillment?sc=1&an=charth",
+      "id": "1",
+      "name": "Charth",
+      "logo": ""
+    }
+  ],
+  "giftRegistryData": null,
+  "receiptData": null,
+  "contextData": null,
+  "marketPlaceOrderId": "",
+  "marketPlaceOrderGroup": null,
+  "marketplaceServicesEndpoint": null,
+  "orderFormId": "70199e8c0e45438eb17210387cdd8f91",
+  "sequence": "514423",
+  "affiliateId": "",
+  "status": "",
+  "callCenterOperator": "",
+  "userProfileId": "1ea572f2-9c32-41e3-bfa0-d02215638265",
+  "hostName": "charth",
+  "creationVersion": null,
+  "creationEnvironment": null,
+  "lastChangeVersion": null,
+  "workflowInstanceId": null,
+  "marketplacePaymentValue": null,
+  "orderId": "1050612226661-01",
+  "orderGroup": "1050612226661",
+  "state": "waiting-for-seller-decision",
+  "isCheckedIn": false,
+  "sellerOrderId": "00-1050612226661-01",
+  "storeId": null,
+  "checkedInPickupPointId": null,
+  "value": 84863,
+  "totals": [
+    {
+      "id": "Items",
+      "name": "Total dos Itens",
+      "value": 79800
+    },
+    {
+      "id": "Discounts",
+      "name": "Total dos Descontos",
+      "value": 0
+    },
+    {
+      "id": "Shipping",
+      "name": "Total do Frete",
+      "value": 5063
+    },
+    {
+      "id": "Tax",
+      "name": "Total da Taxa",
+      "value": 0
+    }
+  ],
+  "clientProfileData": {
+    "email": "5b01ea22659f4e7ea16d6d847a15c88a@ct.vtex.com.br",
+    "firstName": "Dailton",
+    "lastName": "Bastos",
+    "document": "06737981356",
+    "documentType": "cpf",
+    "phone": "+5586988820145",
+    "corporateName": null,
+    "tradeName": null,
+    "corporateDocument": null,
+    "stateInscription": null,
+    "corporatePhone": null,
+    "isCorporate": false,
+    "profileCompleteOnLoading": true,
+    "profileErrorOnLoading": false,
+    "customerClass": null
+  },
+  "ratesAndBenefitsData": {
+    "rateAndBenefitsIdentifiers": [],
+    "teaser": []
+  },
+  "shippingData": {
+    "address": {
+      "addressType": "residential",
+      "receiverName": "Luana Ghisi",
+      "addressId": "d07cb3d9ad3449149beed600612254f3",
+      "isDisposable": false,
+      "postalCode": "88053-301",
+      "city": "Florianópolis",
+      "state": "SC",
+      "country": "BRA",
+      "street": "Avenida dos Búzios",
+      "number": "3370",
+      "neighborhood": "Jurerê Internacional",
+      "complement": "Apto 101 Torre 3",
+      "reference": null,
+      "geoCoordinates": [
+        -48.499229431152344,
+        -27.4400634765625
+      ]
+    },
+    "logisticsInfo": [
+      {
+        "itemIndex": 0,
+        "selectedSla": "Normal",
+        "selectedDeliveryChannel": "delivery",
+        "addressId": "d07cb3d9ad3449149beed600612254f3",
+        "slas": [
+          {
+            "id": "Normal",
+            "deliveryChannel": "delivery",
+            "name": "Normal",
+            "deliveryIds": [
+              {
+                "courierId": "1",
+                "warehouseId": "1595c7a",
+                "dockId": "1",
+                "courierName": "Sedex",
+                "quantity": 1,
+                "totalListPrice": 0
+              }
+            ],
+            "shippingEstimate": "8bd",
+            "shippingEstimateDate": "2020-08-07T20:37:26.4507181Z",
+            "lockTTL": "12d",
+            "availableDeliveryWindows": [],
+            "deliveryWindow": null,
+            "price": 5063,
+            "listPrice": 5063,
+            "tax": 0,
+            "pickupStoreInfo": {
+              "isPickupStore": false,
+              "friendlyName": null,
+              "address": null,
+              "additionalInfo": null,
+              "dockId": null
+            },
+            "pickupPointId": null,
+            "pickupDistance": 0,
+            "polygonName": null,
+            "transitTime": "5bd"
+          }
+        ],
+        "shipsTo": [
+          "BRA"
+        ],
+        "itemId": "6060",
+        "deliveryChannels": [
+          {
+            "id": "delivery",
+            "stockBalance": 0
+          }
+        ]
+      }
+    ],
+    "selectedAddresses": [
+      {
+        "addressType": "residential",
+        "receiverName": "Luana Ghisi",
+        "addressId": "d07cb3d9ad3449149beed600612254f3",
+        "isDisposable": false,
+        "postalCode": "88053-301",
+        "city": "Florianópolis",
+        "state": "SC",
+        "country": "BRA",
+        "street": "Avenida dos Búzios",
+        "number": "3370",
+        "neighborhood": "Jurerê Internacional",
+        "complement": "Apto 101 Torre 3",
+        "reference": null,
+        "geoCoordinates": [
+          -48.499229431152344,
+          -27.4400634765625
+        ]
+      }
+    ],
+    "availableAddresses": [
+      {
+        "addressType": "residential",
+        "receiverName": "Luana Ghisi",
+        "addressId": "d07cb3d9ad3449149beed600612254f3",
+        "isDisposable": false,
+        "postalCode": "88053-301",
+        "city": "Florianópolis",
+        "state": "SC",
+        "country": "BRA",
+        "street": "Avenida dos Búzios",
+        "number": "3370",
+        "neighborhood": "Jurerê Internacional",
+        "complement": "Apto 101 Torre 3",
+        "reference": null,
+        "geoCoordinates": [
+          -48.499229431152344,
+          -27.4400634765625
+        ]
+      }
+    ],
+    "pickupPoints": []
+  },
+  "paymentData": {
+    "giftCards": [],
+    "transactions": [
+      {
+        "isActive": true,
+        "transactionId": "124E10371192420DBCE3CCE213615209",
+        "merchantName": "CHARTH",
+        "payments": [
+          {
+            "id": "230397F2B8CC480D853A18BF1B28A0D4",
+            "paymentSystem": "2",
+            "paymentSystemName": "Visa",
+            "value": 84863,
+            "installments": 4,
+            "connectorResponses": {
+              "Tid": "DB32FBC7-A659-4E80-A29A-B64BE6A98F0A",
+              "ReturnCode": null,
+              "Message": null,
+              "authId": "0",
+              "nsu": "021120676423",
+              "acquirer": "pagseguro"
+            },
+            "referenceValue": 84863,
+            "cardHolder": null,
+            "cardNumber": null,
+            "firstDigits": "406655",
+            "lastDigits": "2404",
+            "cvv2": null,
+            "expireMonth": null,
+            "expireYear": null,
+            "url": null,
+            "koinUrl": null,
+            "tid": "DB32FBC7-A659-4E80-A29A-B64BE6A98F0A",
+            "redemptionCode": null,
+            "giftCardId": null,
+            "giftCardProvider": null,
+            "giftCardAsDiscount": null,
+            "group": "creditCard",
+            "dueDate": null,
+            "accountId": "4EA52E41C6344B679706072F65138B8F",
+            "parentAccountId": "4EA52E41C6344B679706072F65138B8F",
+            "bankIssuedInvoiceIdentificationNumber": null,
+            "bankIssuedInvoiceIdentificationNumberFormatted": null,
+            "bankIssuedInvoiceBarCodeNumber": null,
+            "bankIssuedInvoiceBarCodeType": null
+          }
+        ],
+        "sharedTransaction": false
+      }
+    ]
+  },
+  "clientPreferencesData": {
+    "locale": "pt-BR",
+    "optinNewsLetter": false
+  },
+  "commercialConditionData": null,
+  "marketingData": null,
+  "storePreferencesData": {
+    "countryCode": "BRA",
+    "saveUserData": false,
+    "timeZone": "E. South America Standard Time",
+    "currencyCode": "BRL",
+    "currencyLocale": 1046,
+    "currencySymbol": "R$",
+    "currencyFormatInfo": {
+      "currencyDecimalDigits": 2,
+      "currencyDecimalSeparator": ",",
+      "currencyGroupSeparator": ".",
+      "currencyGroupSize": 3,
+      "startsWithCurrencySymbol": true
+    }
+  },
+  "openTextField": null,
+  "invoiceData": null,
+  "itemMetadata": null,
+  "taxData": null,
+  "customData": null,
+  "hooksData": null,
+  "changeData": null,
+  "subscriptionData": null,
+  "salesChannel": "1",
+  "followUpEmail": "d7c6b148b2e34fdf9e152ce34a45ef7b@ct.vtex.com.br",
+  "creationDate": "2020-07-29T20:37:05.7673384Z",
+  "lastChange": "2020-07-29T23:00:15.3434074Z",
+  "timeZoneCreationDate": "2020-07-29T17:37:05.7673384",
+  "timeZoneLastChange": "2020-07-29T20:00:15.3434074",
+  "isCompleted": true,
+  "merchantName": null,
+  "userType": "",
+  "roundingError": 0,
+  "allowEdition": false,
+  "allowCancellation": false,
+  "isUserDataVisible": false,
+  "allowChangeSeller": false,
+  "_accountInfo": {
+    "MainAccountName": "charth",
+    "AccountName": "charth",
+    "Cnpj": "25038636000153",
+    "Id": "074c1158-b096-40c2-bdb1-60f04b715780",
+    "IsActive": true,
+    "IsOperating": true,
+    "OperationDate": "2018-05-16T15:45:06",
+    "CompanyName": "Charth Comercio de Artigos de Vestuário e Acessórios Ltda",
+    "TradingName": "Charth",
+    "City": "Nova Lima",
+    "Complement": "13º Andar",
+    "Country": "Brasil",
+    "State": "MG",
+    "Number": "35",
+    "PostalCode": "34006-050",
+    "Licences": null,
+    "ParentAccountName": null,
+    "InactivationDate": null,
+    "Platform": "vtex"
+  },
+  "id": "014-cancel-shipped-order"
+}

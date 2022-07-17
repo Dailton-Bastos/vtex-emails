@@ -1,0 +1,17 @@
+<tr>
+  <td width="100%" align="center" style="font-size: 16px; line-height: 20px; color: #2b2b2b; padding-bottom: 20px;">
+    Seu pedido <strong style="font-size: 18px;">nº {{orderId}}</strong> 
+    foi aprovado pela instituição financeira e pela Charth
+    {{#richShippingData shippingData}}
+      {{#group logisticsInfo by="packageId"}}
+        {{#each items}}
+          {{#compare @index '==' 0}}
+            {{#if shippingEstimate}}
+              e será enviado até <!-- partial:../orders/info/shipping-estimate-range-time.hbs --><!-- partial -->
+            {{/if}}
+          {{/compare}}
+        {{/each}}
+      {{/group}}
+    {{/richShippingData}}
+  </td>
+</tr>

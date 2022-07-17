@@ -1,0 +1,399 @@
+{
+  "package": null,
+  "subjectItemAttachment": {
+    "item": "Calça Jup Preto Char...",
+    "totalItems": 1
+  },
+  "cancellationReason": null,
+  "items": [
+    {
+      "additionalInfo": {
+        "dimension": {
+          "cubicweight": 2.5575,
+          "height": 11,
+          "length": 31,
+          "weight": 738,
+          "width": 45
+        },
+        "categoriesIds": "/1/11/",
+        "productClusterId": "139",
+        "commercialConditionId": "1",
+        "brandName": "Charth",
+        "brandId": "2000000",
+        "offeringInfo": null,
+        "offeringType": null,
+        "offeringTypeId": null
+      },
+      "sellerSku": "103",
+      "priceValidUntil": "2019-06-24T19:24:36Z",
+      "callCenterOperator": null,
+      "commission": 0,
+      "freightCommission": 0,
+      "uniqueId": "0439D77FB86A4CCBB995A822995DB472",
+      "id": "103",
+      "productId": "21",
+      "refId": "1450249",
+      "ean": null,
+      "name": "Calça Jup Preto Charth G",
+      "skuName": "G",
+      "modalType": null,
+      "tax": 0,
+      "price": 56800,
+      "listPrice": 56800,
+      "manualPrice": null,
+      "sellingPrice": 56800,
+      "orderRewardStatus": null,
+      "rewardValue": 0,
+      "isGift": false,
+      "preSaleDate": null,
+      "productCategoryIds": "/1/11/",
+      "productCategories": {
+        "1": "Calças",
+        "11": "Skinny"
+      },
+      "defaultPicker": null,
+      "handlerSequence": 0,
+      "handling": false,
+      "quantity": 1,
+      "seller": "1",
+      "sellerChain": [
+        "1"
+      ],
+      "imageUrl": "http://charth.vteximg.com.br/arquivos/ids/155549-109-109/Calca-Jup-Preto-Charth-G.png?v=636594839385930000",
+      "detailUrl": "/calca-jup-preto-charth/p",
+      "components": [],
+      "bundleItems": [],
+      "attachments": [],
+      "itemAttachment": null,
+      "attachmentOfferings": [],
+      "offerings": [],
+      "priceTags": [],
+      "availability": "available",
+      "measurementUnit": "un",
+      "unitMultiplier": 1
+    }
+  ],
+  "sellers": [
+    {
+      "subSellerId": "1",
+      "fulfillmentEndpoint": "http://fulfillment.vtexcommerce.com.br/api/fulfillment?sc=1&an=charth",
+      "id": "1",
+      "name": "Charth",
+      "logo": ""
+    }
+  ],
+  "paymentData": {
+    "giftCards": [],
+    "transactions": [
+      {
+        "isActive": true,
+        "transactionId": "E60F521FD50945079EA1DE0632FC9FF2",
+        "merchantName": "CHARTH",
+        "payments": [
+          {
+            "id": "43E7298494BD462DA5C835592C180238",
+            "paymentSystem": "2",
+            "paymentSystemName": "Visa",
+            "value": 60645,
+            "installments": 2,
+            "connectorResponses": {
+              "tid": "10946414887DTKUA8VBB",
+              "returnCode": "00",
+              "message": "Transacao autorizada",
+              "authId": "043728",
+              "nsu": "060025"
+            },
+            "referenceValue": 60645,
+            "cardHolder": null,
+            "cardNumber": null,
+            "firstDigits": "490172",
+            "lastDigits": "0127",
+            "cvv2": null,
+            "expireMonth": null,
+            "expireYear": null,
+            "url": null,
+            "koinUrl": null,
+            "tid": "10946414887DTKUA8VBB",
+            "redemptionCode": null,
+            "giftCardId": null,
+            "giftCardProvider": null,
+            "giftCardAsDiscount": null,
+            "group": "creditCard",
+            "dueDate": null,
+            "accountId": "AD5732CFD6184B6484E2BA98FFCF4B5C",
+            "parentAccountId": null
+          }
+        ]
+      }
+    ]
+  },
+  "giftRegistryData": null,
+  "receiptData": null,
+  "contextData": null,
+  "marketPlaceOrderId": "",
+  "orderFormId": "78203e36f26b481cb27ebe2c388c9f4b",
+  "sequence": "500478",
+  "affiliateId": "",
+  "status": "",
+  "callCenterOperator": "",
+  "userProfileId": "4ef72192-509f-4a54-82c6-5bae6d4f73ea",
+  "hostName": "charth",
+  "creationVersion": null,
+  "creationEnvironment": null,
+  "lastChangeVersion": null,
+  "workflowInstanceId": null,
+  "orderId": "841961869956-01",
+  "orderGroup": "841961869956",
+  "state": "payment-approved",
+  "isCheckedIn": false,
+  "sellerOrderId": "00-841961869956-01",
+  "storeId": null,
+  "value": 60645,
+  "totals": [
+    {
+      "id": "Items",
+      "name": "Total dos Itens",
+      "value": 56800
+    },
+    {
+      "id": "Discounts",
+      "name": "Total dos Descontos",
+      "value": 0
+    },
+    {
+      "id": "Shipping",
+      "name": "Total do Frete",
+      "value": 3845
+    },
+    {
+      "id": "Tax",
+      "name": "Total da Taxa",
+      "value": 0
+    },
+    {
+      "id": "Change",
+      "name": "Total das mudanças",
+      "value": 0
+    }
+  ],
+  "clientProfileData": {
+    "email": "5b01ea22659f4e7ea16d6d847a15c88a@ct.vtex.com.br",
+    "firstName": "Dailton",
+    "lastName": "Bastos",
+    "document": "06737981356",
+    "documentType": "cpf",
+    "phone": "+5586988820145",
+    "corporateName": null,
+    "tradeName": null,
+    "corporateDocument": null,
+    "stateInscription": null,
+    "corporatePhone": null,
+    "isCorporate": false,
+    "profileCompleteOnLoading": true,
+    "profileErrorOnLoading": false,
+    "customerClass": null
+  },
+  "ratesAndBenefitsData": {
+    "attachmentId": "ratesAndBenefitsData",
+    "rateAndBenefitsIdentifiers": [],
+    "teaser": []
+  },
+  "shippingData": {
+    "attachmentId": "shippingData",
+    "address": {
+      "addressType": "residential",
+      "receiverName": "Luciana Nascimento",
+      "addressId": "6049434a07d94d968d3290053ae0d958",
+      "postalCode": "05704-150",
+      "city": "São Paulo",
+      "state": "SP",
+      "country": "BRA",
+      "street": "Estrada Carlos Queiroz Telles",
+      "number": "162",
+      "neighborhood": "Jardim Fonte do Morumbi",
+      "complement": "11B",
+      "reference": null,
+      "geoCoordinates": []
+    },
+    "logisticsInfo": [
+      {
+        "itemIndex": 0,
+        "selectedSla": "Normal",
+        "selectedDeliveryChannel": "delivery",
+        "addressId": "6049434a07d94d968d3290053ae0d958",
+        "slas": [
+          {
+            "id": "Normal",
+            "deliveryChannel": "delivery",
+            "name": "Normal",
+            "deliveryIds": [
+              {
+                "courierId": "1",
+                "warehouseId": "1_1",
+                "dockId": "1",
+                "courierName": "Sedex",
+                "quantity": 1
+              }
+            ],
+            "shippingEstimate": "5bd",
+            "shippingEstimateDate": "2018-06-29T21:27:10.0966678Z",
+            "lockTTL": "5d",
+            "availableDeliveryWindows": [],
+            "deliveryWindow": null,
+            "price": 3845,
+            "listPrice": 3845,
+            "tax": 0,
+            "pickupStoreInfo": {
+              "isPickupStore": false,
+              "friendlyName": null,
+              "address": null,
+              "additionalInfo": null,
+              "dockId": null
+            }
+          }
+        ],
+        "shipsTo": [
+          "BRA"
+        ],
+        "itemId": "103",
+        "deliveryChannels": [
+          {
+            "id": "delivery"
+          }
+        ]
+      }
+    ],
+    "selectedAddresses": [
+      {
+        "addressType": "residential",
+        "receiverName": "Luciana Nascimento",
+        "addressId": "6049434a07d94d968d3290053ae0d958",
+        "postalCode": "05704-150",
+        "city": "São Paulo",
+        "state": "SP",
+        "country": "BRA",
+        "street": "Estrada Carlos Queiroz Telles",
+        "number": "162",
+        "neighborhood": "Jardim Fonte do Morumbi",
+        "complement": "11B",
+        "reference": null,
+        "geoCoordinates": []
+      }
+    ],
+    "availableAddresses": [
+      {
+        "addressType": "residential",
+        "receiverName": "Luciana Nascimento",
+        "addressId": "6049434a07d94d968d3290053ae0d958",
+        "postalCode": "05704-150",
+        "city": "São Paulo",
+        "state": "SP",
+        "country": "BRA",
+        "street": "Estrada Carlos Queiroz Telles",
+        "number": "162",
+        "neighborhood": "Jardim Fonte do Morumbi",
+        "complement": "11B",
+        "reference": null,
+        "geoCoordinates": []
+      }
+    ]
+  },
+  "clientPreferencesData": {
+    "attachmentId": "clientPreferencesData",
+    "locale": "pt-BR",
+    "optinNewsLetter": true
+  },
+  "commercialConditionData": null,
+  "marketingData": null,
+  "storePreferencesData": {
+    "countryCode": "BRA",
+    "checkToSavePersonDataByDefault": false,
+    "templateOptions": null,
+    "timeZone": "E. South America Standard Time",
+    "currencyCode": "BRL",
+    "currencyLocale": 1046,
+    "currencySymbol": "R$",
+    "currencyFormatInfo": {
+      "currencyDecimalDigits": 2,
+      "currencyDecimalSeparator": ",",
+      "currencyGroupSeparator": ".",
+      "currencyGroupSize": 3,
+      "startsWithCurrencySymbol": true
+    }
+  },
+  "openTextField": null,
+  "customData": null,
+  "hooksData": null,
+  "changeData": {
+    "attachmentId": "changeData",
+    "changesData": [
+      {
+        "reason": "Cliente solicitou troca de medidas",
+        "discountValue": 0,
+        "incrementValue": 0,
+        "itemsAdded": [
+          {
+            "id": "102",
+            "name": "M",
+            "quantity": 1,
+            "price": 56800
+          }
+        ],
+        "itemsRemoved": [
+          {
+            "id": "103",
+            "name": "Calça Jup Preto Charth G",
+            "quantity": 1,
+            "price": 56800
+          }
+        ],
+        "receipt": {
+          "orderId": "841961869956-01",
+          "date": "2018-06-25T17:16:39.4799303Z",
+          "receipt": "59c82beb-c6ae-433e-a040-21b712e30951"
+        }
+      }
+    ]
+  },
+  "salesChannel": "1",
+  "followUpEmail": "5cfc3440732544f5a64bfbb8d6f2e9bc@ct.vtex.com.br",
+  "creationDate": "2018-06-24T19:31:06.603014Z",
+  "lastChange": "2018-06-25T17:16:39.4799303Z",
+  "timeZoneCreationDate": "2018-06-24T16:31:06.603014",
+  "timeZoneLastChange": "2018-06-25T14:16:39.4799303",
+  "isCompleted": true,
+  "merchantName": null,
+  "userType": "",
+  "roundingError": 0,
+  "allowEdition": false,
+  "allowCancellation": false,
+  "_accountInfo": {
+    "HostName": "charth",
+    "MainAccountName": "charth",
+    "IsPersisted": true,
+    "IsRemoved": false,
+    "Id": "074c1158-b096-40c2-bdb1-60f04b715780",
+    "Cnpj": "25038636000153",
+    "CompanyName": "Charth Comercio de Artigos de Vestuário e Acessórios Ltda",
+    "TradingName": "Charth",
+    "AccountName": "charth",
+    "DefaultUrl": null,
+    "Address": null,
+    "Number": null,
+    "Complement": null,
+    "District": null,
+    "City": null,
+    "State": null,
+    "PostalCode": null,
+    "Country": "BRA",
+    "Telephone": "55319935512",
+    "IsActive": true,
+    "Sponsor": "0f219eac-cbfe-411b-a677-f80b2b8b0713",
+    "Logo": null,
+    "AppId": null,
+    "IsOperating": true,
+    "LV": "LV-",
+    "Sigla": null
+  },
+  "id": "018-order-changed"
+}

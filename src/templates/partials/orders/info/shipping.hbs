@@ -1,0 +1,39 @@
+<td valign=top style="padding: 0; width: 32%; vertical-align: top; margin: 5px;  border: 1px solid #ececf0; border-top: none;">
+  <div style="display: inline-block; vertical-align: top; width: 100%;">
+    <h2 style="font-size: 14px; font-weight: normal; text-transform: uppercase; color: #2b2b2b; background: #ececf0; padding: 10px 0; text-align: center; margin: 0;">
+      Entrega
+    </h2>
+    {{#richShippingData shippingData}}
+      {{#group logisticsInfo by="packageId"}}
+        {{#each items}}
+          {{#compare @index '==' 0}}
+            <div style="padding: 10px;">
+              <p style="font-size: 12px; margin: 0 0 10px 0; color: #2b2b2b;">
+                {{selectedSla}} 
+
+                {{#if shippingEstimate}}
+                  - <!-- partial:shipping-estimate-range-time.hbs --><!-- partial -->
+                {{/if}}
+              </p>
+
+              <p style="font-size: 12px; margin: 0; color: #5a5b61; line-height: 14px;">
+                {{../../address.street}},
+                {{../../address.number}}<br>
+                {{#if ../../address.complement}}
+                - {{../../address.complement}}<br>
+                {{/if}}
+                {{../../address.neighborhood}}<br>
+                {{#if ../../address.city}}
+                {{../../address.city}}
+                {{/if}}
+                - {{../../address.state}}<br>
+                {{../../address.postalCode}}
+                - {{../../address.country}}
+              </p>
+            </div>
+          {{/compare}}
+        {{/each}}
+      {{/group}}
+    {{/richShippingData}}
+  </div>
+</td>

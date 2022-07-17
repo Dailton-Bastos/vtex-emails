@@ -1,0 +1,34 @@
+<!-- BOLETO e MERCHANT NULL -->
+{{#each orders.0.paymentData.transactions}}
+  {{#each payments}}
+    <tr align="center">
+      <td>
+        <a href="{{replace url '{Installment}' installments}}" target="_blank" style="color: #fff !important; text-decoration: none; display: block; margin: 0 auto; height: 37px; width: 250px; background-color: #2b2b2b; line-height: 37px; text-transform: uppercase; font-size: 14px; font-weight: bold">
+          imprimir boleto
+        </a>
+      </td>
+    </tr>
+  {{/each}}
+{{/each}}
+
+<tr>
+  <td width="100%" align="center" style="font-size: 12px; color: #2b2b2b; line-height: 19px; padding: 30px 0;">
+    Essa é uma mensagem automática, caso já tenha realizado o pagamento, desconsidere por favor.
+    O prazo para confirmação do pagamento junto ao banco são até 3 dias úteis.
+  </td>
+</tr>
+
+<tr>
+  <td width="100%" align="center">
+    <table width="100%" align="center" style="max-width: 100%; padding: 20px 10px; margin: 0 auto; border: 1px solid #ececf0;">
+      <tr>
+        <td align="center" style="font-size: 12px; line-height: 24px; color: #5a5b61;">
+          A qualquer momento você pode acessar a área <strong>Meus Pedidos</strong> e consultar a data de
+          pagamento, previsão de entrega, imprimir seus boletos,
+          emitir segunda via da nota fiscal e muito mais. <br />
+          <a href="{{ordersUrl}}/" style="color: #F4DCDD;">Acompanhar meu pedido</a>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>

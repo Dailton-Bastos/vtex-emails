@@ -1,0 +1,456 @@
+{
+  "package": null,
+  "subjectItemAttachment": {
+    "item": "Kit 1 - Vestido Tati...",
+    "totalItems": 1
+  },
+  "cancellationReason": null,
+  "items": [
+    {
+      "additionalInfo": {
+        "categoriesIds": "/63/",
+        "productClusterId": "",
+        "commercialConditionId": "1",
+        "dimension": {
+          "cubicweight": 1,
+          "height": 10,
+          "length": 10,
+          "weight": 500,
+          "width": 10
+        },
+        "brandName": "Charth",
+        "brandId": "2000002",
+        "offeringInfo": null,
+        "offeringType": null,
+        "offeringTypeId": null
+      },
+      "sellerSku": "9054",
+      "priceTable": null,
+      "priceValidUntil": "2022-07-25T16:42:55Z",
+      "callCenterOperator": null,
+      "commission": 0,
+      "freightCommission": 0,
+      "taxCode": "",
+      "catalogProvider": "vrn:vtex.catalog-api-proxy:-:charth:master:/proxy/authenticated/catalog/pvt/sku/stockkeepingunitbyid/9054",
+      "uniqueId": "2881D716EC5A47099AE43452386D221C",
+      "id": "9054",
+      "productId": "2264",
+      "productRefId": "",
+      "refId": "KIT0001P",
+      "ean": null,
+      "name": "Kit 1 - Vestido Tatiele PRETO P",
+      "skuName": "P",
+      "modalType": null,
+      "parentItemIndex": null,
+      "parentAssemblyBinding": null,
+      "assemblies": [],
+      "tax": 0,
+      "price": 299800,
+      "listPrice": 299800,
+      "manualPrice": null,
+      "manualPriceAppliedBy": null,
+      "sellingPrice": 299800,
+      "rewardValue": 0,
+      "isGift": false,
+      "preSaleDate": null,
+      "productCategoryIds": "/63/",
+      "productCategories": {
+        "63": "Conjuntos"
+      },
+      "quantity": 1,
+      "seller": "1",
+      "sellerChain": [
+        "1"
+      ],
+      "imageUrl": "http://charth.vteximg.com.br/arquivos/ids/169676-109-109/CHARTH-TWINS24618.jpg?v=637626912742400000",
+      "detailUrl": "/kit-1---vestido-tatiele-preto-/p",
+      "components": [],
+      "bundleItems": [],
+      "attachments": [],
+      "attachmentOfferings": [],
+      "offerings": [],
+      "priceTags": [
+        {
+          "name": "discount@shipping-4352cafc-67ac-4e3d-bc28-e5e2a9eb09af#c7480abb-7479-4d6b-8e9d-dee2bb9468b9",
+          "value": -2867,
+          "rawValue": -28.67,
+          "isPercentual": false,
+          "identifier": "4352cafc-67ac-4e3d-bc28-e5e2a9eb09af"
+        },
+        {
+          "name": "discount@shipping-2474f79b-18a3-49b6-a216-12eafbec8007#fffdd5d6-66eb-41cf-a939-e1acef1a2fb6",
+          "value": 0,
+          "rawValue": 0,
+          "isPercentual": false,
+          "identifier": "2474f79b-18a3-49b6-a216-12eafbec8007"
+        }
+      ],
+      "availability": "available",
+      "measurementUnit": "un",
+      "unitMultiplier": 1,
+      "manufacturerCode": "",
+      "priceDefinition": {
+        "calculatedSellingPrice": 299800,
+        "total": 299800,
+        "sellingPrices": [
+          {
+            "value": 299800,
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  ],
+  "sellers": [
+    {
+      "subSellerId": "1",
+      "fulfillmentEndpoint": "http://fulfillment.vtexcommerce.com.br/api/fulfillment?sc=1&an=charth",
+      "id": "1",
+      "name": "Charth",
+      "logo": ""
+    }
+  ],
+  "giftRegistryData": null,
+  "receiptData": null,
+  "contextData": null,
+  "marketPlaceOrderId": "",
+  "marketPlaceOrderGroup": null,
+  "marketplaceServicesEndpoint": null,
+  "orderFormId": "665f9c1208b943cd91060a17d3858328",
+  "sequence": "524682",
+  "affiliateId": "",
+  "status": "",
+  "callCenterOperator": "",
+  "userProfileId": "37c68673-6156-40a2-98af-452787cebd45",
+  "hostName": "charth",
+  "creationVersion": null,
+  "creationEnvironment": null,
+  "lastChangeVersion": null,
+  "workflowInstanceId": null,
+  "marketplacePaymentValue": null,
+  "orderId": "1149372604030-01",
+  "orderGroup": "1149372604030",
+  "state": "canceled",
+  "isCheckedIn": false,
+  "sellerOrderId": "00-1149372604030-01",
+  "storeId": null,
+  "checkedInPickupPointId": null,
+  "value": 299800,
+  "totals": [
+    {
+      "id": "Items",
+      "name": "Total dos Itens",
+      "value": 299800
+    },
+    {
+      "id": "Discounts",
+      "name": "Total dos Descontos",
+      "value": 0
+    },
+    {
+      "id": "Shipping",
+      "name": "Total do Frete",
+      "value": 0,
+      "alternativeTotals": [
+        {
+          "id": "AlternativeShippingTotal",
+          "name": "Alternative Shipping Total",
+          "value": 2867
+        },
+        {
+          "id": "AlternativeShippingDiscount",
+          "name": "Alternative Shipping Discount",
+          "value": -2867
+        }
+      ]
+    },
+    {
+      "id": "Tax",
+      "name": "Total da Taxa",
+      "value": 0
+    }
+  ],
+  "clientProfileData": {
+    "email": "5b01ea22659f4e7ea16d6d847a15c88a@ct.vtex.com.br",
+    "firstName": "Dailton",
+    "lastName": "Bastos",
+    "document": "06737981356",
+    "documentType": "cpf",
+    "phone": "+5586988820145",
+    "corporateName": null,
+    "tradeName": null,
+    "corporateDocument": null,
+    "stateInscription": null,
+    "corporatePhone": null,
+    "isCorporate": false,
+    "profileCompleteOnLoading": true,
+    "profileErrorOnLoading": false,
+    "customerClass": null
+  },
+  "ratesAndBenefitsData": {
+    "rateAndBenefitsIdentifiers": [
+      {
+        "id": "4352cafc-67ac-4e3d-bc28-e5e2a9eb09af",
+        "name": "Frete Grátis BH",
+        "featured": false,
+        "description": "Frete Grátis para BH e região",
+        "matchedParameters": {
+          "zipCode@Shipping": "30380-530",
+          "slaIds": "normal"
+        },
+        "additionalInfo": null
+      },
+      {
+        "id": "2474f79b-18a3-49b6-a216-12eafbec8007",
+        "name": "Frete Grátis",
+        "featured": false,
+        "description": "Para compras acima de R$ 1.000,00",
+        "matchedParameters": {},
+        "additionalInfo": null
+      }
+    ],
+    "teaser": []
+  },
+  "shippingData": {
+    "address": {
+      "addressType": "residential",
+      "receiverName": "matheus da mata",
+      "addressId": "7dd4ae2fb38e4cd9a0fd76fb23b59f4c",
+      "isDisposable": false,
+      "postalCode": "30380-530",
+      "city": "Belo Horizonte",
+      "state": "MG",
+      "country": "BRA",
+      "street": "Rua Doutor Juvenal dos Santos",
+      "number": "324",
+      "neighborhood": "Luxemburgo",
+      "complement": "casa",
+      "reference": null,
+      "geoCoordinates": [
+        -43.95610809326172,
+        -19.950210571289062
+      ]
+    },
+    "logisticsInfo": [
+      {
+        "itemIndex": 0,
+        "selectedSla": "Normal",
+        "selectedDeliveryChannel": "delivery",
+        "addressId": "7dd4ae2fb38e4cd9a0fd76fb23b59f4c",
+        "slas": [
+          {
+            "id": "Normal",
+            "deliveryChannel": "delivery",
+            "name": "Normal",
+            "deliveryIds": [
+              {
+                "courierId": "1",
+                "warehouseId": "1281e36",
+                "dockId": "1",
+                "courierName": "Sedex",
+                "quantity": 1,
+                "kitItemDetails": []
+              }
+            ],
+            "shippingEstimate": "5bd",
+            "shippingEstimateDate": null,
+            "lockTTL": "10d",
+            "availableDeliveryWindows": [],
+            "deliveryWindow": null,
+            "price": 0,
+            "listPrice": 2867,
+            "tax": 0,
+            "pickupStoreInfo": {
+              "isPickupStore": false,
+              "friendlyName": null,
+              "address": null,
+              "additionalInfo": null,
+              "dockId": null
+            },
+            "pickupPointId": null,
+            "pickupDistance": 0,
+            "polygonName": null,
+            "transitTime": "1bd"
+          }
+        ],
+        "shipsTo": [
+          "BRA"
+        ],
+        "itemId": "9054",
+        "deliveryChannels": [
+          {
+            "id": "delivery"
+          }
+        ]
+      }
+    ],
+    "selectedAddresses": [
+      {
+        "addressType": "residential",
+        "receiverName": "matheus da mata",
+        "addressId": "7dd4ae2fb38e4cd9a0fd76fb23b59f4c",
+        "isDisposable": false,
+        "postalCode": "30380-530",
+        "city": "Belo Horizonte",
+        "state": "MG",
+        "country": "BRA",
+        "street": "Rua Doutor Juvenal dos Santos",
+        "number": "324",
+        "neighborhood": "Luxemburgo",
+        "complement": "casa",
+        "reference": null,
+        "geoCoordinates": [
+          -43.95610809326172,
+          -19.950210571289062
+        ]
+      }
+    ],
+    "availableAddresses": [
+      {
+        "addressType": "residential",
+        "receiverName": "matheus da mata",
+        "addressId": "7dd4ae2fb38e4cd9a0fd76fb23b59f4c",
+        "isDisposable": false,
+        "postalCode": "30380-530",
+        "city": "Belo Horizonte",
+        "state": "MG",
+        "country": "BRA",
+        "street": "Rua Doutor Juvenal dos Santos",
+        "number": "324",
+        "neighborhood": "Luxemburgo",
+        "complement": "casa",
+        "reference": null,
+        "geoCoordinates": [
+          -43.95610809326172,
+          -19.950210571289062
+        ]
+      }
+    ],
+    "pickupPoints": []
+  },
+  "paymentData": {
+    "giftCards": [],
+    "transactions": [
+      {
+        "isActive": true,
+        "transactionId": "B0D3A958009A43D089FFD535B8DFCA50",
+        "merchantName": "CHARTH",
+        "payments": [
+          {
+            "id": "5A03238AFED847A29D983FEF689A2056",
+            "paymentSystem": "6",
+            "paymentSystemName": "Boleto Bancário",
+            "value": 299800,
+            "installments": 1,
+            "connectorResponses": {
+              "Tid": "07GQ6M4DEW1OZI21",
+              "ReturnCode": "undefined",
+              "Message": null,
+              "authId": "07GQ6M4DEW1OZI21",
+              "acquirer": "PagHiper"
+            },
+            "referenceValue": 299800,
+            "cardHolder": null,
+            "cardNumber": null,
+            "firstDigits": null,
+            "lastDigits": null,
+            "cvv2": null,
+            "expireMonth": null,
+            "expireYear": null,
+            "url": "https://www.paghiper.com/checkout/boleto/44afe6079076e24acf199a97dacc2e5ddc5575d4e6e9504d8abce30c3c3b12c074e08072b87019b7ec24446b53c60c094e966da5e6779f091933c07483ee22bc/07GQ6M4DEW1OZI21/46165020",
+            "koinUrl": null,
+            "tid": "07GQ6M4DEW1OZI21",
+            "redemptionCode": null,
+            "giftCardId": null,
+            "giftCardProvider": null,
+            "giftCardAsDiscount": null,
+            "group": "bankInvoice",
+            "dueDate": null,
+            "accountId": null,
+            "parentAccountId": null,
+            "bankIssuedInvoiceIdentificationNumber": null,
+            "bankIssuedInvoiceIdentificationNumberFormatted": null,
+            "bankIssuedInvoiceBarCodeNumber": null,
+            "bankIssuedInvoiceBarCodeType": null,
+            "billingAddress": null
+          }
+        ],
+        "sharedTransaction": false
+      }
+    ]
+  },
+  "clientPreferencesData": {
+    "locale": "pt-BR",
+    "optinNewsLetter": false
+  },
+  "commercialConditionData": null,
+  "marketingData": null,
+  "storePreferencesData": {
+    "countryCode": "BRA",
+    "saveUserData": false,
+    "timeZone": "E. South America Standard Time",
+    "currencyCode": "BRL",
+    "currencyLocale": 1046,
+    "currencySymbol": "R$",
+    "currencyFormatInfo": {
+      "currencyDecimalDigits": 2,
+      "currencyDecimalSeparator": ",",
+      "currencyGroupSeparator": ".",
+      "currencyGroupSize": 3,
+      "startsWithCurrencySymbol": true
+    }
+  },
+  "openTextField": null,
+  "invoiceData": null,
+  "itemMetadata": null,
+  "taxData": null,
+  "customData": null,
+  "hooksData": null,
+  "changeData": null,
+  "subscriptionData": null,
+  "salesChannel": "1",
+  "followUpEmail": "be76494b577749f588343651ce71a704@ct.vtex.com.br",
+  "creationDate": "2021-07-25T16:43:25.1869254Z",
+  "lastChange": "2021-07-29T12:04:07.457667Z",
+  "timeZoneCreationDate": "2021-07-25T13:43:25.1869254",
+  "timeZoneLastChange": "2021-07-29T09:04:07.457667",
+  "isCompleted": true,
+  "merchantName": null,
+  "userType": "",
+  "roundingError": 0,
+  "allowEdition": false,
+  "allowCancellation": false,
+  "isUserDataVisible": false,
+  "allowChangeSeller": false,
+  "cancellationData": {
+    "requestedByUser": false,
+    "requestedByPaymentNotification": true,
+    "reason": null,
+    "cancellationDate": "2021-07-29T12:04:05.1883583Z"
+  },
+  "_accountInfo": {
+    "MainAccountName": "charth",
+    "AccountName": "charth",
+    "Cnpj": "25038636000153",
+    "Id": "074c1158-b096-40c2-bdb1-60f04b715780",
+    "IsActive": true,
+    "IsOperating": true,
+    "CreationDate": "2018-01-30T16:56:02",
+    "OperationDate": "2018-05-16T15:45:06",
+    "CompanyName": "Charth Comercio de Artigos de Vestuário e Acessórios Ltda",
+    "TradingName": "Charth",
+    "City": "Nova Lima",
+    "Complement": "13º Andar",
+    "Country": "Brasil",
+    "State": "MG",
+    "Address": "Rua Senador Milton Campos",
+    "District": "Vila da Serra",
+    "Number": "35",
+    "PostalCode": "34006-050",
+    "Licences": null,
+    "ParentAccountName": null,
+    "InactivationDate": null,
+    "Platform": "vtex"
+  },
+  "id": "012-order-cancelled"
+}

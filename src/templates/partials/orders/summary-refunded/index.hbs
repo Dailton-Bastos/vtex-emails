@@ -1,0 +1,40 @@
+<!-- Order summary -->
+<tr>
+  <td width="100%" align="center" style="font-size: 16px; color: #2b2b2b; line-height: 18px; padding: 30px 0 28px; text-transform: uppercase;">
+    <span style="font-weight: bold;">resumo do estorno</span>
+  </td>
+</tr>
+
+<tr>
+  <td>
+    <table style="width: 100%; border-collapse: collapse; border-spacing: 0;">
+      <tr>
+        <td style="width: 45%; font-weight: bold; font-size: 14px; line-height: 16px; text-align: left; color: #2b2b2b;">
+          Produto
+        </td>
+        <td style="width: 10%; font-weight: bold; font-size: 14px; line-height: 16px; text-align: left; color: #2b2b2b;">
+          Qtd
+        </td>
+        <td style="width: 15%; font-weight: bold; font-size: 14px; line-height: 16px; text-align: left; color: #2b2b2b;">
+          Valor un
+        </td>
+        <td style="width: 15%; font-weight: bold; font-size: 14px; line-height: 16px; text-align: left; color: #2b2b2b;">
+          Desconto
+        </td>
+        <td style="width: 15%; font-weight: bold; font-size: 14px; line-height: 16px; text-align: right; color: #2b2b2b;">
+          Subtotal
+        </td>
+      </tr>
+    </table>
+
+    <!-- Order Items -->
+    <!-- partial:items.hbs --><!-- partial -->
+  </td>
+</tr>
+
+<tr>
+  <td width="100%" align="right" style="font-size: 16px; color: #2b2b2b; line-height: 18px; padding-top: 15px;">
+    <span style="font-weight: bold;">Total estornado: </span>
+    {{ storePreferencesData.currencySymbol }} {{formatCurrency package.restitutions.Refund.value}}
+  </td>
+</tr>

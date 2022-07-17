@@ -1,0 +1,27 @@
+<td valign=top style="padding: 0; width: 32%; vertical-align: top; margin: 5px;border: 1px solid #ececf0; border-top: none;">
+  <div style="display: inline-block; vertical-align: top; width: 100%;">
+    <h2 style="font-size: 14px; font-weight: normal; text-transform: uppercase; color: #2b2b2b; background: #ececf0; padding: 10px 0; text-align: center; margin: 0;">
+      Pagamento
+    </h2>
+
+    <div style="padding: 10px;">
+      <p style="font-size: 12px; margin: 0 0 10px 0; color: #2b2b2b;">
+        {{#each paymentData.transactions}}{{#each payments}}{{#eq group "creditCard"}}
+        Cartão de crédito {{paymentSystemName}}
+        {{else}}
+          {{paymentSystemName}} {{#eq paymentSystemName 'Boleto Bancário'}}
+        {{/eq}}{{#eq group 'giftCard'}}
+          <span>{{redemptionCode}}</span>
+          <span>{{bankIssuedInvoiceIdentificationNumberFormatted}}</span>
+        {{/eq}}
+        {{/eq}}
+      </p>
+
+      <p style="font-size: 12px; margin: 0 0 10px 0; color: #7e7f88; line-height: 14px;">
+        {{#compare installments '>' 1}}
+        {{installments}}x de R$ {{formatCurrency (math value '/' installments)}} sem
+        juros. {{/compare}}{{/each}}{{/each}}
+      </p>
+    </div>
+  </div>
+</td>
